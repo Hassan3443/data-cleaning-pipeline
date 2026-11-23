@@ -1,0 +1,1249 @@
+Order ID,Order Date,Customer ID,Product Name,Category,Region,Quantity,Unit Price,Payment Method
+ORD-00642,07-29-2026,CUST-0190,Biography,Books,,1,"1,077.38 EGP",Cash
+ORD-00577,2025-09-13,CUST-0145,Webcam HD,Electronics,giza,1,$330.44,Cash
+ORD-01154,07 Apr 2026,CUST-0042,USB-C Hub,electronics,Alexandria,1,4611.88,Credit Card
+ORD-00885,12-01-2026,CUST-0100,Hoodie,CLOTHING, Aswan,4,4160.03,Mobile Wallet
+ORD-00118,03/07/2026,,Wireless Mouse,electronics,cairo,1,1378.88,Mobile Wallet
+ORD-00936,18/04/2025,CUST-0321,Water Bottle,Sports,giza,3,"3,131.61 EGP",Bank Transfer
+ORD-00823,10-22-2025,CUST-0362,Dumbbells,Sports,Aswan,2,$3101.10,Cash
+ORD-00766,18/06/2025,,Wireless Mouse,Electronics,,2,3714.76,Mobile Wallet
+ORD-01062,01-21-2026,CUST-0314,Biography,books,aswan,4,$2692.64,Cash
+ORD-01050,31/10/2025,CUST-0340,Dumbbells,Sports, Aswan,1,$2185.75,Cash
+ORD-00361,2025-09-29,CUST-0116,Air Fryer,home & kitchen,Cairo,3,4981.33,Mobile Wallet
+ORD-00737,11-07-2025,CUST-0256,Hoodie,Clothing,Alexandria,2,$990.23,Credit Card
+ORD-00570,19/08/2025,CUST-0099,Cookware Set,Home and Kitchen,Cairo,2,2198.61,Cash
+ORD-01071,27 Jul 2026,CUST-0194,Data Science 101,Books , Alexandria,3,$865.93,Bank Transfer
+ORD-00598,01/12/2025,CUST-0377,Keyboard,Electronics, Cairo,5,1709.92,Credit Card
+ORD-01019,2026-08-07,CUST-0109,Wireless Mouse,Electronics, Mansoura,5,3618.44,Credit Card
+ORD-00911,09-03-2026,CUST-0009,Football,Sports,Alexandria,2,"3,907.13 EGP",Cash
+ORD-00042,08-06-2026,CUST-0359,Football,Sports,GIZA,4,665.55,Credit Card
+ORD-00239,09-28-2026,CUST-0295,Desk Lamp,Home and Kitchen, Mansoura,4,"4,495.70 EGP",Cash
+ORD-00529,11-06-2026,CUST-0213,Cookware Set,Home and Kitchen,CAIRO,3,"4,200.50 EGP",Credit Card
+ORD-00298,30 Jun 2026,CUST-0125,Desk Lamp,HOME & KITCHEN, Mansoura,4,$2973.15,Bank Transfer
+ORD-00396,2026-03-02,CUST-0147,Biography,books,CAIRO,2,4182.33,Cash
+ORD-00511,03 Nov 2025,CUST-0331,Dumbbells,Sports,Giza,4,3626.66,Credit Card
+ORD-00424,06/09/2025,CUST-0224,Hoodie,Clothing,giza,1,$349.43,Mobile Wallet
+ORD-00265,10-20-2026,CUST-0041,Dumbbells,Sports,GIZA,1,3667.41,Credit Card
+ORD-01168,23/04/2025,CUST-0253,Water Bottle,Sports,mansoura,1,1547.43,Cash
+ORD-00653,22/10/2026,CUST-0192,Coffee Maker,HOME & KITCHEN,MANSOURA,5,$4270.42,
+ORD-00244,12-30-2025,CUST-0041,Air Fryer,Home & Kitchen,giza,5,"2,463.09 EGP",Mobile Wallet
+ORD-00178,08/08/2026,CUST-0086,Dumbbells,SPORTS,ALEXANDRIA,1,4748.81,Bank Transfer
+ORD-00088,07 Jun 2025,CUST-0294,Dumbbells,Sports , Giza,3,1891.47,
+ORD-01136,11 Feb 2025,CUST-0004,Cap,clothing, Giza,4,"2,820.31 EGP",Bank Transfer
+ORD-00382,03 Sep 2025,CUST-0199,Hoodie,Clothing,giza,1,151.53,Bank Transfer
+ORD-00425,2025-09-01,CUST-0328,USB-C Hub,Electronics,CAIRO,4,"1,751.89 EGP",Bank Transfer
+ORD-00131,03-27-2026,CUST-0305,Cookware Set,Home & Kitchen ,giza,4,$4086.60,Cash
+ORD-00370,2025-09-25,CUST-0281,Jeans,clothing,Mansoura,3,"2,133.31 EGP",Cash
+ORD-00417,20 Jul 2025,CUST-0253,Bluetooth Speaker,Electronics,alexandria,1,"4,356.09 EGP",Cash
+ORD-00734,22 Nov 2026,CUST-0164,Webcam HD,ELECTRONICS,Giza,1,"4,886.98 EGP",Mobile Wallet
+ORD-00793,08-12-2025,CUST-0314,Jump Rope,Sports, Aswan,1,2269.38,Credit Card
+ORD-00180,07-03-2026,CUST-0293,Cookware Set,Home & Kitchen,CAIRO,4,"1,357.48 EGP",Bank Transfer
+ORD-00096,26 May 2026,CUST-0047,Hoodie,Clothing ,aswan,4,4401.42,Mobile Wallet
+ORD-00694,05-30-2025,CUST-0198,Coffee Maker,home & kitchen,Giza,5,"1,801.31 EGP",Cash
+ORD-00481,30/08/2026,CUST-0080,Data Science 101,Books , Alexandria,3,$97.01,Mobile Wallet
+ORD-00355,2025-01-31,CUST-0014,Cap,Clothing , Mansoura,1,4160.05,Credit Card
+ORD-00791,16 Sep 2025,CUST-0105,Python Handbook,Books ,mansoura,4,2358.43,Credit Card
+ORD-00682,08/06/2026,CUST-0009,Novel,Books,giza,2,$4208.06,Credit Card
+ORD-00950,12 Mar 2025,CUST-0035,Jump Rope,Sports, Giza,4,"2,397.14 EGP",Mobile Wallet
+ORD-00515,07-19-2025,CUST-0360,Jump Rope,Sports,Giza,4,$3642.16,
+ORD-00468,05-31-2025,,Data Science 101,Books ,Giza,2,"3,747.95 EGP",Bank Transfer
+ORD-00925,14 Jan 2026,CUST-0228,T-Shirt,Clothing , Aswan,2,"4,492.36 EGP",Credit Card
+ORD-00364,30 Aug 2025,CUST-0126,Football,SPORTS,GIZA,2,612.11 EGP,Credit Card
+ORD-00700,07 Mar 2025,CUST-0308,Football,Sports ,Alexandria,2,3676.15,Bank Transfer
+ORD-00947,30/05/2025,CUST-0079,Desk Lamp,home & kitchen,MANSOURA,1,$601.45,Credit Card
+ORD-00785,19 Sep 2025,CUST-0143,Yoga Mat,Sports, Alexandria,2,$1501.11,Credit Card
+ORD-00333,2026-05-29,CUST-0273,Cookbook,BOOKS,Mansoura,4,3563.64,Bank Transfer
+ORD-00125,05 Aug 2025,CUST-0144,Jeans,Clothing ,aswan,3,280.48 EGP,
+ORD-00150,13/04/2025,CUST-0220,Wireless Mouse,ELECTRONICS,Alexandria,1,$2968.39,Mobile Wallet
+ORD-00681,10 Jan 2026,CUST-0117,Webcam HD,Electronics, Cairo,1,$4825.53,Mobile Wallet
+ORD-00439,19 Mar 2026,CUST-0301,Desk Lamp,home & kitchen,Mansoura,2,3038.36,Bank Transfer
+ORD-00198,27 Apr 2025,CUST-0198,Jeans,Clothing,mansoura,4,4813.43,Credit Card
+ORD-00621,2026-03-31,CUST-0100,Keyboard,ELECTRONICS, Cairo,3,532.50,Cash
+ORD-00429,02/05/2025,CUST-0194,USB-C Hub,ELECTRONICS,giza,2,"3,984.75 EGP",Cash
+ORD-00478,24 Nov 2026,CUST-0376,Desk Lamp,Home and Kitchen,alexandria,2,"2,702.73 EGP",Cash
+ORD-00931,06-13-2025,CUST-0209,Cap,Clothing,aswan,5,$3812.24,Bank Transfer
+ORD-00493,07-09-2025,CUST-0050,Biography,BOOKS,aswan,4,"1,849.73 EGP",Mobile Wallet
+ORD-01035,10-29-2026,CUST-0386,Football,SPORTS,Cairo,2,2866.95,Bank Transfer
+ORD-00119,06/09/2025,CUST-0398,Cookbook,Books , Mansoura,4,"4,579.88 EGP",Mobile Wallet
+ORD-00986,2025-07-11,CUST-0013,Dumbbells,Sports,ALEXANDRIA,3,$2336.62,Mobile Wallet
+ORD-00311,12/12/2025,,Yoga Mat,Sports,CAIRO,3,$2760.68,Mobile Wallet
+ORD-00790,29 Apr 2025,CUST-0162,Cookware Set,home & kitchen,cairo,4,$1910.92,Cash
+ORD-00438,2026-11-07,CUST-0088,Coffee Maker,home & kitchen,Mansoura,4,$334.39,Bank Transfer
+ORD-00047,12-15-2025,CUST-0301,Biography,BOOKS,MANSOURA,1,$1450.05,Mobile Wallet
+ORD-00728,02-06-2025,CUST-0218,Novel,Books , Giza,4,1711.39,Cash
+ORD-00894,15 Dec 2025,CUST-0218,Air Fryer,Home & Kitchen , Alexandria,1,$2632.85,Bank Transfer
+ORD-00879,03-17-2026,CUST-0065,Cap,Clothing,Cairo,5,"4,346.98 EGP",Cash
+ORD-00189,2025-02-24,CUST-0349,Biography,Books ,giza,4,$4452.66,Cash
+ORD-00512,07-22-2026,CUST-0217,Cookbook,books,GIZA,5,2534.27,Cash
+ORD-00794,01-22-2026,CUST-0074,Hoodie,clothing,ALEXANDRIA,4,$3670.68,Cash
+ORD-00736,21 Nov 2025,CUST-0339,Jeans,clothing,alexandria,-2,2027.12,Credit Card
+ORD-00226,04/08/2025,CUST-0294,Novel,Books,Alexandria,4,161.11,Cash
+ORD-01100,2025-01-21,CUST-0140,Wireless Mouse,Electronics , Alexandria,4,"3,462.86 EGP",Cash
+ORD-01195,13 Jun 2025,CUST-0213,Python Handbook,Books, Giza,2,"2,667.03 EGP",Credit Card
+ORD-00063,08/04/2026,CUST-0213,Cookbook,Books, Giza,4,1727.71,Cash
+ORD-00521,2025-12-03,CUST-0109,Data Science 101,BOOKS,MANSOURA,3,1745.00,Cash
+ORD-00840,03-27-2025,CUST-0300,Keyboard,electronics,Alexandria,2,"3,799.91 EGP",Mobile Wallet
+ORD-00502,2026-09-10,CUST-0007,Wireless Mouse,Electronics,Cairo,4,"1,950.75 EGP",Credit Card
+ORD-00754,25 May 2026,CUST-0296,USB-C Hub,ELECTRONICS, Cairo,4,$2091.50,Bank Transfer
+ORD-00704,2025-10-26,CUST-0086,Air Fryer,Home & Kitchen ,mansoura,3,3431.01,Mobile Wallet
+ORD-00590,2026-06-02,CUST-0230,Jump Rope,sports,alexandria,3,"3,283.98 EGP",Cash
+ORD-00155,03-16-2026,CUST-0296,Cookware Set,Home and Kitchen, Mansoura,5,366.17,Cash
+ORD-00796,23 Mar 2025,CUST-0241,Keyboard,ELECTRONICS, Giza,3,$3103.15,Mobile Wallet
+ORD-00854,10-17-2026,CUST-0204,Dumbbells,Sports,giza,1,$2719.19,Bank Transfer
+ORD-01128,01-01-2026,CUST-0205,Cap,clothing,Giza,-5,3938.99,Credit Card
+ORD-00337,14/01/2026,CUST-0163,Desk Lamp,home & kitchen,alexandria,2,"2,834.31 EGP",Credit Card
+ORD-01191,22/11/2026,CUST-0308,Wireless Mouse,Electronics,CAIRO,3,1547.31,Bank Transfer
+ORD-00869,05/10/2026,CUST-0144,Cookbook,Books , Mansoura,1,3663.38,Credit Card
+ORD-00457,19 Jun 2025,CUST-0273,Biography,BOOKS,MANSOURA,3,"3,474.59 EGP",Credit Card
+ORD-00242,30/05/2025,CUST-0256,Cap,Clothing, Aswan,4,4038.06,Mobile Wallet
+ORD-00004,11-18-2026,CUST-0374,T-Shirt,Clothing ,mansoura,1,$3065.20,Credit Card
+ORD-00029,08-13-2025,CUST-0343,Biography,Books,MANSOURA,4,2453.93,Credit Card
+ORD-00864,11-18-2026,CUST-0337,Coffee Maker,Home and Kitchen, Cairo,2,"4,497.68 EGP",Mobile Wallet
+ORD-00930,03-08-2026,CUST-0369,Jump Rope,Sports, Aswan,5,1912.76,Mobile Wallet
+ORD-00640,13/02/2026,CUST-0010,Dumbbells,SPORTS,ALEXANDRIA,3,"1,399.76 EGP",Mobile Wallet
+ORD-00798,2025-06-06,CUST-0205,Python Handbook,Books,giza,5,2553.93,Bank Transfer
+ORD-00624,29/11/2026,CUST-0147,Blender,HOME & KITCHEN,ALEXANDRIA,2,1586.91,Cash
+ORD-00991,2026-06-22,CUST-0185,Jeans,CLOTHING,alexandria,1,$2136.23,Credit Card
+ORD-00905,11/02/2025,CUST-0199,Bluetooth Speaker,Electronics, Aswan,1,1426.74,Credit Card
+ORD-00334,06-18-2025,CUST-0105,Wireless Mouse,Electronics,cairo,1,$3500.56,Bank Transfer
+ORD-00866,11/04/2025,CUST-0173,Data Science 101,BOOKS,cairo,2,"4,045.80 EGP",Bank Transfer
+ORD-01092,05/06/2026,CUST-0082,Hoodie,Clothing,MANSOURA,4,"2,456.49 EGP",Mobile Wallet
+ORD-00023,09-23-2026,CUST-0147,Cap,clothing, Aswan,-4,"2,762.29 EGP",Bank Transfer
+ORD-00437,04-22-2025,CUST-0156,Data Science 101,Books ,cairo,5,$4811.59,
+ORD-01131,15 Nov 2025,CUST-0073,Bluetooth Speaker,Electronics ,Aswan,1,4127.79,Credit Card
+ORD-00679,2026-10-10,,Novel,Books,,-2,$4898.68,Bank Transfer
+ORD-00422,2026-11-25,CUST-0206,Keyboard,ELECTRONICS,Mansoura,5,308.41,Bank Transfer
+ORD-01129,31 May 2025,CUST-0120,Water Bottle,Sports, Giza,2,62.48,Cash
+ORD-00952,25/06/2026,CUST-0162,Football,Sports,Alexandria,5,351.56,Bank Transfer
+ORD-00391,09-30-2026,CUST-0148,Cookbook,BOOKS,mansoura,-4,3502.70,Mobile Wallet
+ORD-00484,24/09/2026,CUST-0384,Keyboard,electronics,Aswan,1,$3585.09,Cash
+ORD-00299,2026-11-10,CUST-0306,T-Shirt,Clothing,ASWAN,5,4191.90,Bank Transfer
+ORD-00898,19 May 2025,CUST-0167,Cookbook,books,CAIRO,2,4320.55,Cash
+ORD-00113,19 Jan 2026,CUST-0193,Data Science 101,Books, Aswan,4,4354.62,Bank Transfer
+ORD-01025,02-04-2025,CUST-0181,Biography,books,Alexandria,3,213.48,Bank Transfer
+ORD-00994,2026-12-01,CUST-0021,Biography,Books,alexandria,4,1527.76,Credit Card
+ORD-01073,03-24-2026,CUST-0119,Football,sports,Giza,2,527.13,Mobile Wallet
+ORD-01179,11-12-2025,CUST-0113,Cookbook,Books,mansoura,3,434.96 EGP,Bank Transfer
+ORD-00868,2025-12-09,CUST-0029,Jump Rope,Sports,Giza,1,4729.45,Mobile Wallet
+ORD-00673,01-05-2026,CUST-0154,Cookware Set,HOME & KITCHEN,CAIRO,1,$2199.04,Credit Card
+ORD-00235,08-20-2026,CUST-0311,Water Bottle,SPORTS,Mansoura,3,4818.27,Bank Transfer
+ORD-00839,24/05/2025,CUST-0037,Hoodie,Clothing, Aswan,1,2613.88,Mobile Wallet
+ORD-01184,02 Jun 2025,,Bluetooth Speaker,Electronics ,Aswan,4,4626.29,
+ORD-00144,2026-02-26,CUST-0068,Sneakers,Clothing,GIZA,3,"4,341.89 EGP",Mobile Wallet
+ORD-01060,20 Feb 2026,CUST-0217,USB-C Hub,Electronics,,4,1958.93,Credit Card
+ORD-00060,2025-06-01,CUST-0067,Blender,Home & Kitchen,Alexandria,3,4299.11,Mobile Wallet
+ORD-00996,28 Mar 2025,CUST-0147,Jeans,Clothing,Giza,3,$1840.27,Bank Transfer
+ORD-00851,10/08/2025,CUST-0021,Novel,Books,Cairo,4,3237.94,Bank Transfer
+ORD-00497,2025-07-08,CUST-0005,Hoodie,clothing, Aswan,2,$2880.89,Cash
+ORD-00190,05-15-2026,CUST-0232,Webcam HD,Electronics ,alexandria,2,1601.40,Credit Card
+ORD-00857,04 Feb 2026,CUST-0014,Cookware Set,HOME & KITCHEN,mansoura,5,487.48,Cash
+ORD-00944,01 May 2026,CUST-0066,USB-C Hub,Electronics , Cairo,4,$3569.29,Credit Card
+ORD-00503,27/07/2025,CUST-0084,Wireless Mouse,Electronics,Mansoura,4,"3,810.38 EGP",Mobile Wallet
+ORD-01003,26 Jan 2026,,Jump Rope,SPORTS, Giza,3,"4,228.99 EGP",Credit Card
+ORD-00902,30/04/2025,CUST-0299,Water Bottle,Sports,ALEXANDRIA,4,3037.86,Credit Card
+ORD-00793,08-12-2025,CUST-0314,Jump Rope,Sports, Aswan,1,2269.38,Credit Card
+ORD-00276,2025-07-12,CUST-0314,Hoodie,Clothing ,aswan,2,964.50,Cash
+ORD-00853,29 Apr 2026,CUST-0306,Coffee Maker,Home and Kitchen,mansoura,3,3659.84,Mobile Wallet
+ORD-00326,23 Aug 2026,CUST-0313,Data Science 101,Books,MANSOURA,1,4457.92,Mobile Wallet
+ORD-00979,03-15-2025,CUST-0335,Bluetooth Speaker,Electronics,aswan,5,4553.79,Mobile Wallet
+ORD-00618,01-26-2025,CUST-0218,T-Shirt,CLOTHING,aswan,4,3865.19,Cash
+ORD-00573,09-18-2026,CUST-0057,Yoga Mat,Sports,Giza,4,"3,112.29 EGP",Mobile Wallet
+ORD-01098,18 Oct 2025,CUST-0120,Cookbook,books,Aswan,4,118.93,Mobile Wallet
+ORD-01099,12-24-2025,CUST-0035,Hoodie,clothing,alexandria,2,"4,850.95 EGP",Credit Card
+ORD-00526,2025-11-11,CUST-0211,Cookware Set,Home and Kitchen, Aswan,4,3262.11,Cash
+ORD-00182,05-12-2026,CUST-0160,Data Science 101,Books,Mansoura,1,$2600.59,Cash
+ORD-00378,24 Jul 2026,,Hoodie,Clothing,GIZA,1,985.15,Bank Transfer
+ORD-00282,29/05/2025,CUST-0394,Hoodie,Clothing ,Giza,1,2126.93,
+ORD-00360,08 Aug 2026,CUST-0052,Cookbook,Books, Alexandria,3,$2884.07,Mobile Wallet
+ORD-00519,27/09/2026,CUST-0161,Python Handbook,books, Mansoura,4,1865.32,Credit Card
+ORD-00855,03 Sep 2025,CUST-0048,Wireless Mouse,Electronics, Cairo,3,"1,709.20 EGP",Bank Transfer
+ORD-00181,01-21-2025,CUST-0357,Desk Lamp,Home & Kitchen,ALEXANDRIA,3,$1589.20,Mobile Wallet
+ORD-00537,08-25-2026,CUST-0250,Jump Rope,SPORTS, Mansoura,2,3980.79,Credit Card
+ORD-00075,20/08/2026,CUST-0340,USB-C Hub,Electronics,Aswan,3,1585.65,Bank Transfer
+ORD-00201,09-04-2025,CUST-0330,Desk Lamp,Home & Kitchen,ALEXANDRIA,3,299.24,Bank Transfer
+ORD-01135,2026-03-13,CUST-0316,Webcam HD,Electronics,alexandria,5,"3,466.78 EGP",Bank Transfer
+ORD-00731,20/03/2026,CUST-0165,Bluetooth Speaker,Electronics,alexandria,2,297.49,Bank Transfer
+ORD-00807,2025-02-09,CUST-0191,Biography,Books ,cairo,3,$3571.26,Mobile Wallet
+ORD-00401,11-03-2025,CUST-0267,Blender,Home & Kitchen ,cairo,5,3378.55,Mobile Wallet
+ORD-00722,2025-03-08,CUST-0028,USB-C Hub,ELECTRONICS, Cairo,1,92.91 EGP,Cash
+ORD-00467,05/03/2025,CUST-0187,Desk Lamp,HOME & KITCHEN,alexandria,4,4900.26,Credit Card
+ORD-00203,27 Sep 2026,CUST-0389,Yoga Mat,Sports , Cairo,3,3593.77,Mobile Wallet
+ORD-00797,23 Jan 2025,CUST-0154,Jeans,clothing, Mansoura,4,$1397.33,Mobile Wallet
+ORD-00447,2026-01-13,CUST-0393,Jump Rope,sports,cairo,1,"4,433.03 EGP",Credit Card
+ORD-01036,08-01-2025,CUST-0188,Cookware Set,home & kitchen, Alexandria,1,$818.07,Mobile Wallet
+ORD-00284,10-31-2026,CUST-0296,Bluetooth Speaker,Electronics,Giza,1,$769.60,Bank Transfer
+ORD-00313,11-15-2026,CUST-0398,Python Handbook,books,Mansoura,3,$851.73,Mobile Wallet
+ORD-00907,2026-09-16,CUST-0375,Keyboard,Electronics,ALEXANDRIA,2,2019.21,Cash
+ORD-01198,28 Nov 2026,CUST-0383,Dumbbells,Sports , Alexandria,-1,452.05,Credit Card
+ORD-00699,17 May 2025,CUST-0357,Biography,BOOKS,GIZA,2,3325.91,Mobile Wallet
+ORD-00225,07/01/2025,CUST-0330,Jump Rope,Sports, Alexandria,4,869.75,Credit Card
+ORD-00557,2025-10-17,CUST-0181,Cap,Clothing,cairo,-1,2467.41,Mobile Wallet
+ORD-01152,2026-09-14,CUST-0400,Cookbook,books, Aswan,4,$577.71,Mobile Wallet
+ORD-00329,11 Apr 2025,CUST-0007,Python Handbook,BOOKS,mansoura,4,1240.53,Cash
+ORD-00387,2026-07-02,CUST-0336,Cookbook,Books,MANSOURA,-1,2004.92,Mobile Wallet
+ORD-00976,11/01/2025,CUST-0026,Keyboard,Electronics,cairo,4,3809.76,Mobile Wallet
+ORD-00949,03/12/2025,CUST-0118,Blender,Home & Kitchen,aswan,1,1963.73,Cash
+ORD-00134,2026-09-01,CUST-0182,Jump Rope,Sports,ASWAN,1,$3856.32,Mobile Wallet
+ORD-00171,09-09-2026,CUST-0255,Hoodie,CLOTHING, Cairo,5,1143.43,Credit Card
+ORD-00688,10-18-2026,CUST-0183,Desk Lamp,Home & Kitchen,CAIRO,4,3351.54,Bank Transfer
+ORD-00085,10-20-2025,CUST-0064,Jeans,Clothing ,MANSOURA,1,"4,335.70 EGP",Bank Transfer
+ORD-00072,2026-03-27,CUST-0141,Hoodie,Clothing, Giza,4,2238.93,Credit Card
+ORD-01153,2026-03-12,,Webcam HD,Electronics,Alexandria,2,2943.34,Mobile Wallet
+ORD-00130,21 Jun 2025,CUST-0040,Bluetooth Speaker,Electronics ,ALEXANDRIA,3,2134.46,Cash
+ORD-00349,2025-09-17,CUST-0050,Bluetooth Speaker,ELECTRONICS,aswan,-1,"1,543.15 EGP",
+ORD-00116,11-04-2025,CUST-0377,Novel,Books ,Mansoura,1,2805.75,Bank Transfer
+ORD-01080,2026-06-09,CUST-0183,Cookbook,Books , Mansoura,1,2583.83,Bank Transfer
+ORD-00366,11-12-2026,CUST-0063,Dumbbells,sports,GIZA,4,"4,428.60 EGP",Cash
+ORD-00092,18/06/2025,CUST-0266,Coffee Maker,home & kitchen, Cairo,3,$4676.95,Mobile Wallet
+ORD-00277,08 Jul 2025,,Coffee Maker,Home & Kitchen ,CAIRO,4,2395.54,Cash
+ORD-00108,09/07/2025,CUST-0134,USB-C Hub,Electronics, Mansoura,4,1651.83,Credit Card
+ORD-00435,2025-12-15,CUST-0358,Python Handbook,BOOKS,Mansoura,3,4236.72,Cash
+ORD-01097,01-28-2026,CUST-0303,USB-C Hub,electronics,ASWAN,1,$1055.32,Bank Transfer
+ORD-00708,05/06/2026,CUST-0110,Biography,Books, Alexandria,5,1885.58,Cash
+ORD-00854,10-17-2026,CUST-0204,Dumbbells,Sports,giza,1,$2719.19,Bank Transfer
+ORD-00828,19/07/2026,CUST-0131,T-Shirt,CLOTHING, Giza,1,$1375.00,Credit Card
+ORD-00929,2026-03-10,CUST-0283,Jump Rope,Sports ,alexandria,3,2164.39,Bank Transfer
+ORD-01108,24/01/2025,CUST-0162,Yoga Mat,sports,Alexandria,2,"2,132.30 EGP",Mobile Wallet
+ORD-00875,06/10/2026,CUST-0088,Webcam HD,electronics,GIZA,3,$2621.15,Bank Transfer
+ORD-00943,15/02/2026,CUST-0054,Air Fryer,Home & Kitchen,Giza,3,3085.70,Mobile Wallet
+ORD-01195,13 Jun 2025,CUST-0213,Python Handbook,Books, Giza,2,"2,667.03 EGP",Credit Card
+ORD-00514,12/07/2025,CUST-0292,Cookware Set,HOME & KITCHEN,ASWAN,1,1239.66,Mobile Wallet
+ORD-00895,05 Apr 2026,CUST-0004,Python Handbook,books,aswan,3,3233.57,Mobile Wallet
+ORD-00031,01/02/2025,CUST-0123,Bluetooth Speaker,Electronics,cairo,2,$4204.18,Mobile Wallet
+ORD-00654,2026-09-16,CUST-0327,Coffee Maker,Home and Kitchen,aswan,2,1814.68,Credit Card
+ORD-01200,03-12-2026,CUST-0226,Cap,Clothing,giza,5,3781.80,Mobile Wallet
+ORD-00703,26/05/2026,CUST-0350,Jump Rope,Sports,aswan,5,1130.95,Cash
+ORD-00256,2025-07-17,CUST-0021,Novel,BOOKS,MANSOURA,4,$1822.93,Cash
+ORD-00229,2026-07-07,CUST-0023,Water Bottle,sports,MANSOURA,4,$2634.12,Bank Transfer
+ORD-00159,2025-11-11,CUST-0252,Biography,BOOKS,Alexandria,2,2672.58,Cash
+ORD-00760,03-15-2025,CUST-0108,Jeans,Clothing,,2,3791.21,Credit Card
+ORD-00062,18 May 2026,CUST-0076,Keyboard,Electronics, Giza,1,$4501.37,Mobile Wallet
+ORD-00912,2025-08-06,CUST-0399,Sneakers,Clothing ,Alexandria,3,$4710.49,Mobile Wallet
+ORD-00234,2025-06-23,CUST-0081,Water Bottle,Sports, Giza,-3,"1,234.32 EGP",Bank Transfer
+ORD-00803,30 Apr 2026,CUST-0335,Jeans,clothing,mansoura,3,4760.94,Mobile Wallet
+ORD-00593,03-17-2025,CUST-0380,Wireless Mouse,ELECTRONICS,giza,4,4557.84,Credit Card
+ORD-00275,03/11/2026,CUST-0369,Sneakers,CLOTHING,giza,3,385.68 EGP,Mobile Wallet
+ORD-01130,02-19-2026,CUST-0052,Data Science 101,Books, Alexandria,1,1769.22,Mobile Wallet
+ORD-00582,08-10-2026,CUST-0122,Novel,Books , Cairo,2,"4,803.51 EGP",Cash
+ORD-00069,2026-02-11,CUST-0161,USB-C Hub,Electronics,ASWAN,4,142.77 EGP,
+ORD-00160,08/04/2025,CUST-0223,Football,SPORTS, Alexandria,4,$420.41,Bank Transfer
+ORD-00848,2025-07-16,CUST-0144,Air Fryer,Home and Kitchen,Aswan,1,"2,375.67 EGP",Credit Card
+ORD-00469,04/08/2025,CUST-0250,Sneakers,Clothing ,giza,1,"4,619.63 EGP",Bank Transfer
+ORD-00444,2025-03-21,CUST-0111,Hoodie,Clothing,Aswan,3,809.81,Credit Card
+ORD-00600,26/07/2026,CUST-0315,Data Science 101,Books , Aswan,2,242.12,Cash
+ORD-00285,08-16-2026,CUST-0189,Novel,Books ,Cairo,1,$510.98,Cash
+ORD-00350,14/06/2025,CUST-0297,Air Fryer,Home & Kitchen,aswan,5,2872.67,Cash
+ORD-00193,2025-08-05,CUST-0365,T-Shirt,Clothing, Cairo,5,2547.94,Credit Card
+ORD-00995,2025-06-04,CUST-0008,Sneakers,Clothing, Giza,2,4697.49,Bank Transfer
+ORD-00582,08-10-2026,CUST-0122,Novel,Books , Cairo,2,"4,803.51 EGP",Cash
+ORD-00578,01/01/2026,CUST-0400,Cookbook,Books, Alexandria,4,3580.01,Credit Card
+ORD-00379,2025-06-01,CUST-0093,Keyboard,Electronics,aswan,3,513.21,Credit Card
+ORD-00471,2025-07-20,CUST-0348,T-Shirt,Clothing ,ALEXANDRIA,3,3643.49,Cash
+ORD-00815,21/06/2025,CUST-0383,Hoodie,Clothing,ALEXANDRIA,5,$3205.57,Bank Transfer
+ORD-00336,18/02/2025,CUST-0317,Coffee Maker,HOME & KITCHEN,aswan,3,1457.69,Cash
+ORD-00525,09 May 2025,CUST-0097,Biography,BOOKS,ASWAN,5,532.36,Cash
+ORD-00120,01-15-2026,CUST-0380,Sneakers,clothing,GIZA,4,276.29 EGP,Cash
+ORD-00079,2025-04-16,CUST-0231,Football,Sports ,Alexandria,3,465.18 EGP,Cash
+ORD-00552,2025-06-24,CUST-0001,Keyboard,electronics,Alexandria,5,1793.11,Mobile Wallet
+ORD-01044,06-04-2025,CUST-0129,Jump Rope,SPORTS,Alexandria,1,2959.40,Cash
+ORD-01159,2025-02-15,CUST-0088,Jeans,CLOTHING,Alexandria,1,2846.97,Mobile Wallet
+ORD-00296,2025-07-22,CUST-0358,Air Fryer,HOME & KITCHEN,MANSOURA,4,"2,860.56 EGP",Cash
+ORD-00267,2026-08-09,CUST-0257,Biography,Books,ALEXANDRIA,5,$2026.00,Bank Transfer
+ORD-00499,02-23-2026,CUST-0006,Cap,Clothing , Alexandria,3,"4,927.04 EGP",Credit Card
+ORD-00179,02 Feb 2026,CUST-0235,Keyboard,Electronics,CAIRO,5,1664.33,Cash
+ORD-00970,2025-11-15,,Jeans,CLOTHING, Giza,2,"4,513.40 EGP",Bank Transfer
+ORD-01083,06-11-2026,CUST-0344,Desk Lamp,Home and Kitchen,MANSOURA,5,$3767.86,Mobile Wallet
+ORD-01160,19/08/2025,CUST-0106,Football,Sports,Alexandria,2,$1775.05,Mobile Wallet
+ORD-01132,04-02-2025,CUST-0244,Keyboard,Electronics,ALEXANDRIA,1,4694.87,Bank Transfer
+ORD-00197,10-25-2025,CUST-0389,USB-C Hub,Electronics,cairo,3,"2,158.68 EGP",Bank Transfer
+ORD-01162,13/03/2026,CUST-0289,Yoga Mat,Sports,aswan,-1,"4,068.64 EGP",Mobile Wallet
+ORD-01112,2026-04-05,CUST-0271,Blender,Home & Kitchen ,giza,5,$830.72,Credit Card
+ORD-01186,07 Jul 2025,CUST-0295,Cap,Clothing,CAIRO,4,4444.87,Bank Transfer
+ORD-00945,19/03/2025,CUST-0271,Biography,Books,MANSOURA,1,$4601.63,Bank Transfer
+ORD-00536,08 Oct 2025,CUST-0283,Cookware Set,HOME & KITCHEN,MANSOURA,2,4768.49,Bank Transfer
+ORD-01194,02/01/2025,CUST-0028,Air Fryer,Home & Kitchen, Alexandria,4,3884.82,Credit Card
+ORD-00802,10-01-2025,CUST-0314,Bluetooth Speaker,Electronics, Cairo,5,"4,192.41 EGP",Credit Card
+ORD-00287,10 Oct 2026,CUST-0120,Dumbbells,Sports ,Alexandria,4,"4,049.50 EGP",Credit Card
+ORD-00449,05-26-2026,CUST-0020,Cookware Set,Home & Kitchen,ASWAN,2,800.77,Mobile Wallet
+ORD-00685,05/02/2026,CUST-0142,Novel,Books,mansoura,2,4179.93,Cash
+ORD-00904,22 Jul 2026,CUST-0239,Cookware Set,HOME & KITCHEN,ASWAN,5,4063.62,Cash
+ORD-01150,11-30-2026,CUST-0257,T-Shirt,Clothing, Mansoura,4,"2,278.65 EGP",Cash
+ORD-00263,2026-09-03,CUST-0004,Air Fryer,Home and Kitchen,,5,718.67,Mobile Wallet
+ORD-00033,03-15-2026,CUST-0216,Jump Rope,Sports, Cairo,1,"2,554.51 EGP",Bank Transfer
+ORD-00604,2026-01-24,CUST-0284,Webcam HD,electronics, Cairo,3,$4565.53,Cash
+ORD-00312,2026-10-16,CUST-0193,Jump Rope,Sports,aswan,1,477.61 EGP,Cash
+ORD-00723,03 Apr 2026,CUST-0052,Water Bottle,Sports,alexandria,3,3532.84,Credit Card
+ORD-00477,07/02/2025,CUST-0069,Hoodie,clothing, Alexandria,2,1533.56,Bank Transfer
+ORD-01142,03-07-2026,CUST-0300,Python Handbook,Books,cairo,2,2478.39,Mobile Wallet
+ORD-01086,05-30-2026,CUST-0042,Football,Sports,ASWAN,4,$4252.16,Credit Card
+ORD-00089,24 Sep 2025,CUST-0252,Cookware Set,Home & Kitchen,ALEXANDRIA,2,"4,982.01 EGP",Bank Transfer
+ORD-00999,08 Aug 2026,CUST-0123,Dumbbells,SPORTS,giza,3,1141.99,Credit Card
+ORD-00806,04/08/2026,CUST-0129,Air Fryer,HOME & KITCHEN, Mansoura,1,$4352.41,Cash
+ORD-00576,17 Mar 2026,CUST-0316,T-Shirt,clothing, Giza,5,731.96,Credit Card
+ORD-00759,16 Jul 2026,CUST-0296,Blender,Home and Kitchen,Mansoura,5,3301.61,Bank Transfer
+ORD-00883,01 Jan 2025,CUST-0189,Water Bottle,Sports , Giza,2,3427.58,Bank Transfer
+ORD-00371,2025-03-26,CUST-0394,Dumbbells,Sports,ALEXANDRIA,2,"1,285.54 EGP",Mobile Wallet
+ORD-00997,03-03-2026,CUST-0086,Dumbbells,Sports ,ALEXANDRIA,1,"1,546.39 EGP",Credit Card
+ORD-00775,05-23-2025,CUST-0278,Dumbbells,SPORTS,alexandria,2,3451.16,Mobile Wallet
+ORD-01119,02 Jun 2025,CUST-0036,Bluetooth Speaker,electronics,GIZA,2,$216.72,Mobile Wallet
+ORD-00094,08 Sep 2025,CUST-0081,Novel,BOOKS, Mansoura,3,$2295.04,Mobile Wallet
+ORD-00038,07-21-2026,CUST-0053,USB-C Hub,Electronics ,ASWAN,2,3207.45,Cash
+ORD-00800,09-05-2026,CUST-0043,Jeans,Clothing,CAIRO,5,1915.40,Credit Card
+ORD-00756,08/07/2026,CUST-0090,Jump Rope,Sports , Giza,3,3689.22,Cash
+ORD-01125,06 Feb 2026,CUST-0205,Jump Rope,Sports ,Alexandria,4,"4,677.99 EGP",Bank Transfer
+ORD-00546,2026-05-15,CUST-0271,T-Shirt,clothing, Giza,3,1082.87,Cash
+ORD-00261,26 Jul 2026,CUST-0346,Dumbbells,Sports,mansoura,1,"3,843.10 EGP",Bank Transfer
+ORD-00288,28/07/2026,CUST-0131,Cookware Set,Home and Kitchen, Giza,1,3221.06,Credit Card
+ORD-01048,25 May 2026,CUST-0184,Biography,BOOKS,CAIRO,3,$3984.21,Credit Card
+ORD-00473,10 Oct 2026,CUST-0063,Blender,Home & Kitchen ,ASWAN,3,$107.43,Credit Card
+ORD-01054,17/07/2025,CUST-0146,Keyboard,Electronics,Giza,1,1562.91,Bank Transfer
+ORD-00426,03/12/2025,CUST-0022,Novel,Books ,cairo,1,$2298.80,Cash
+ORD-00274,04/09/2025,CUST-0169,Novel,Books,alexandria,4,4854.16,Cash
+ORD-00300,2026-05-22,CUST-0298,Air Fryer,home & kitchen,cairo,1,"1,127.18 EGP",Mobile Wallet
+ORD-00281,2025-04-04,CUST-0363,Bluetooth Speaker,Electronics,aswan,4,$3188.66,Bank Transfer
+ORD-00893,27/01/2025,CUST-0158,Coffee Maker,HOME & KITCHEN,alexandria,1,4418.33,Cash
+ORD-00458,02-12-2026,CUST-0001,Jeans,clothing, Mansoura,1,4935.78,Cash
+ORD-00067,09/06/2025,CUST-0227,Wireless Mouse,Electronics,MANSOURA,5,296.32 EGP,Credit Card
+ORD-00052,04-16-2026,CUST-0148,Desk Lamp,Home & Kitchen , Alexandria,1,$4499.60,Mobile Wallet
+ORD-01038,04-13-2026,CUST-0398,Novel,Books, Aswan,1,$2215.82,Credit Card
+ORD-00531,12/04/2025,CUST-0201,T-Shirt,Clothing,giza,5,635.95,Cash
+ORD-00487,07 May 2025,CUST-0116,Cookbook,Books ,GIZA,1,820.37 EGP,Mobile Wallet
+ORD-00454,01-14-2025,CUST-0203,Wireless Mouse,Electronics, Giza,4,$2052.55,Credit Card
+ORD-00597,10 May 2025,CUST-0062,Yoga Mat,Sports,Mansoura,3,$4594.08,Mobile Wallet
+ORD-00433,03-26-2025,CUST-0142,Cookware Set,HOME & KITCHEN, Cairo,5,$2588.32,Cash
+ORD-00111,04/07/2026,CUST-0060,Jump Rope,Sports,ASWAN,2,"1,674.18 EGP",Bank Transfer
+ORD-00152,2025-01-18,CUST-0031,Keyboard,electronics,MANSOURA,1,"1,347.82 EGP",Bank Transfer
+ORD-01069,2025-10-27,CUST-0225,Python Handbook,Books,Giza,5,1342.24,Bank Transfer
+ORD-00214,2026-07-01,CUST-0110,Yoga Mat,sports,mansoura,1,"1,093.37 EGP",Bank Transfer
+ORD-00074,21/06/2026,CUST-0210,Cookbook,Books, Aswan,3,"1,895.62 EGP",Credit Card
+ORD-00342,07 Jan 2025,CUST-0364,USB-C Hub,ELECTRONICS,ALEXANDRIA,3,2101.84,Bank Transfer
+ORD-00306,06 Dec 2025,CUST-0149,Water Bottle,SPORTS, Aswan,3,4804.88,Bank Transfer
+ORD-00941,15/08/2025,CUST-0067,Blender,HOME & KITCHEN,GIZA,-5,4036.06,Cash
+ORD-00365,2025-06-30,CUST-0043,Dumbbells,Sports,GIZA,4,3922.06,Credit Card
+ORD-00718,13 Feb 2025,CUST-0117,Sneakers,Clothing , Alexandria,4,3567.89,Bank Transfer
+ORD-01103,02 Jun 2025,CUST-0078,Wireless Mouse,electronics,cairo,4,3487.57,Bank Transfer
+ORD-00650,11 Jan 2026,CUST-0248,Hoodie,Clothing ,Cairo,3,752.65,Bank Transfer
+ORD-00302,2025-10-16,CUST-0321,Bluetooth Speaker,ELECTRONICS,MANSOURA,2,$2186.99,Cash
+ORD-01122,25/07/2025,CUST-0219,Sneakers,CLOTHING, Cairo,5,"3,688.29 EGP",
+ORD-00510,2026-01-16,CUST-0305,Cookbook,books,cairo,1,$3330.60,
+ORD-00724,2025-09-13,CUST-0021,Cookware Set,Home and Kitchen,MANSOURA,2,4550.46,Credit Card
+ORD-00666,10 Feb 2026,CUST-0263,Cookbook,BOOKS,Aswan,1,4166.79,Mobile Wallet
+ORD-00132,01-21-2026,CUST-0103,Blender,HOME & KITCHEN,Aswan,4,1856.83,Bank Transfer
+ORD-00040,26 Aug 2026,CUST-0379,Air Fryer,Home & Kitchen, Alexandria,3,2864.72,Cash
+ORD-00307,2026-05-12,CUST-0143,Air Fryer,Home & Kitchen ,,2,$2552.70,Credit Card
+ORD-00496,09-06-2026,CUST-0032,Cap,Clothing ,ALEXANDRIA,2,"1,483.80 EGP",Credit Card
+ORD-01169,2026-09-25,CUST-0341,Air Fryer,Home and Kitchen, Mansoura,2,"1,734.45 EGP",Mobile Wallet
+ORD-01031,2025-09-08,CUST-0156,USB-C Hub,Electronics,cairo,1,1543.77,Credit Card
+ORD-00714,2025-07-25,CUST-0259,Cookbook,books, Alexandria,4,"1,931.17 EGP",
+ORD-00693,12 Dec 2025,,Coffee Maker,Home & Kitchen, Alexandria,3,3786.12,Cash
+ORD-00343,2025-01-28,CUST-0326,Hoodie,Clothing,GIZA,2,"1,350.25 EGP",
+ORD-00939,27 Feb 2025,CUST-0336,Football,Sports , Giza,-4,88.01 EGP,Mobile Wallet
+ORD-00268,03-15-2025,CUST-0046,T-Shirt,clothing, Mansoura,4,1650.89,Mobile Wallet
+ORD-00660,04/11/2025,CUST-0099,Webcam HD,ELECTRONICS,alexandria,5,"3,375.84 EGP",Bank Transfer
+ORD-00414,10-13-2026,CUST-0165,Coffee Maker,Home & Kitchen,,4,$1401.42,Cash
+ORD-01095,21/11/2025,CUST-0023,Football,Sports,Mansoura,1,"2,897.96 EGP",Cash
+ORD-00687,26/10/2025,CUST-0309,Python Handbook,BOOKS,GIZA,5,560.10 EGP,Bank Transfer
+ORD-01000,2025-03-21,,Cap,Clothing ,GIZA,3,4249.28,Bank Transfer
+ORD-00305,05-26-2025,CUST-0313,USB-C Hub,Electronics,Mansoura,4,2608.90,Mobile Wallet
+ORD-00908,18/04/2025,CUST-0017,Data Science 101,Books,GIZA,2,257.16,Cash
+ORD-00532,2026-01-27,CUST-0399,Jump Rope,Sports,alexandria,2,$4917.90,Cash
+ORD-00918,18 Jan 2025,CUST-0347,Wireless Mouse,electronics, Mansoura,2,$1777.22,Cash
+ORD-00294,10-11-2025,CUST-0081,Cookware Set,HOME & KITCHEN,Cairo,4,$3372.06,Mobile Wallet
+ORD-00928,07 Sep 2026,CUST-0372,Cap,Clothing,ASWAN,5,4523.87,Credit Card
+ORD-01064,26 Sep 2026,CUST-0305,Yoga Mat,sports, Mansoura,-4,156.89 EGP,Mobile Wallet
+ORD-00211,06-07-2025,CUST-0316,Bluetooth Speaker,Electronics, Giza,5,301.73,Mobile Wallet
+ORD-00638,06 Aug 2026,CUST-0076,Yoga Mat,SPORTS,Cairo,1,428.85,Mobile Wallet
+ORD-00207,20/11/2026,CUST-0166,Desk Lamp,Home and Kitchen,GIZA,2,2544.27,Mobile Wallet
+ORD-00325,29 Aug 2025,CUST-0383,Webcam HD,Electronics ,Giza,5,2919.82,Credit Card
+ORD-00998,11-25-2025,CUST-0263,Jump Rope,sports,CAIRO,2,551.99,Credit Card
+ORD-00340,05-18-2026,CUST-0342,Hoodie,Clothing ,ALEXANDRIA,5,3045.14,
+ORD-00261,26 Jul 2026,CUST-0346,Dumbbells,Sports,mansoura,1,"3,843.10 EGP",Bank Transfer
+ORD-00098,10 Apr 2025,CUST-0188,Hoodie,Clothing,ALEXANDRIA,3,$3984.74,Credit Card
+ORD-00208,2025-02-24,CUST-0147,Sneakers,Clothing, Alexandria,2,1371.54,Credit Card
+ORD-01081,03-08-2025,CUST-0301,Water Bottle,Sports,GIZA,2,1089.01,Mobile Wallet
+ORD-00827,04-11-2026,CUST-0353,Dumbbells,sports, Mansoura,3,3239.04,Cash
+ORD-00820,11-05-2026,CUST-0021,Yoga Mat,Sports, Mansoura,1,4481.86,Credit Card
+ORD-00565,2026-01-31,CUST-0015,Biography,BOOKS,Cairo,4,2113.64,Credit Card
+ORD-00613,21 Jun 2026,CUST-0241,Hoodie,Clothing,cairo,1,$1622.56,Credit Card
+ORD-00221,2025-01-20,CUST-0109,Bluetooth Speaker,Electronics,ASWAN,5,"2,915.56 EGP",Cash
+ORD-00412,08/07/2026,CUST-0285,Desk Lamp,HOME & KITCHEN, Cairo,2,2710.80,
+ORD-00461,11 Sep 2026,CUST-0162,Coffee Maker,Home & Kitchen ,GIZA,3,$1885.39,Mobile Wallet
+ORD-00533,2026-10-16,CUST-0055,Bluetooth Speaker,Electronics ,Giza,1,2322.68,Mobile Wallet
+ORD-00494,22 Aug 2026,CUST-0381,T-Shirt,Clothing,cairo,1,4441.61,Bank Transfer
+ORD-00585,2026-11-02,CUST-0297,Wireless Mouse,ELECTRONICS,Aswan,2,3437.98,Mobile Wallet
+ORD-00233,2026-09-16,CUST-0336,Keyboard,Electronics,aswan,4,$4656.89,
+ORD-00579,21/05/2025,CUST-0191,T-Shirt,Clothing,alexandria,3,3722.45,Bank Transfer
+ORD-00086,2026-03-11,CUST-0280,Webcam HD,Electronics, Cairo,4,"3,032.14 EGP",Bank Transfer
+ORD-00423,06-14-2026,CUST-0305,Novel,Books ,aswan,5,1002.78,Cash
+ORD-00188,05-12-2025,CUST-0349,Novel,Books,cairo,5,3826.45,Mobile Wallet
+ORD-00920,2025-12-05,CUST-0302,Air Fryer,Home and Kitchen, Mansoura,1,"3,985.76 EGP",Mobile Wallet
+ORD-00357,19 May 2026,CUST-0392,Sneakers,Clothing,MANSOURA,2,"1,596.68 EGP",Cash
+ORD-00332,09/12/2025,CUST-0386,Sneakers,Clothing,alexandria,5,612.11,Mobile Wallet
+ORD-00346,07-02-2026,CUST-0191,Bluetooth Speaker,Electronics,mansoura,2,113.84,Cash
+ORD-00757,09-09-2026,CUST-0239,Bluetooth Speaker,Electronics,aswan,2,$1697.38,Mobile Wallet
+ORD-00917,13 Feb 2025,CUST-0365,Dumbbells,sports, Cairo,4,$553.25,Mobile Wallet
+ORD-00541,28/01/2026,CUST-0295,Yoga Mat,Sports,MANSOURA,-5,155.28,Credit Card
+ORD-01176,30/07/2025,CUST-0317,Webcam HD,ELECTRONICS, Cairo,4,$617.60,Cash
+ORD-00631,20/04/2026,CUST-0069,Biography,Books,GIZA,1,$1968.49,Credit Card
+ORD-00393,2025-02-18,CUST-0082,Yoga Mat,Sports ,Aswan,3,"4,410.49 EGP",Credit Card
+ORD-01037,06/06/2025,CUST-0206,Jump Rope,Sports,Cairo,1,724.65,Cash
+ORD-00363,2026-10-04,CUST-0124,Jump Rope,SPORTS,GIZA,5,"1,043.21 EGP",Credit Card
+ORD-00927,17 Feb 2025,CUST-0093,Yoga Mat,Sports, Mansoura,4,"1,634.98 EGP",Credit Card
+ORD-00592,2026-03-18,CUST-0272,Wireless Mouse,ELECTRONICS,MANSOURA,2,4950.17,Cash
+ORD-00020,01/10/2025,CUST-0241,Hoodie,CLOTHING,mansoura,1,1943.58,Cash
+ORD-00799,01 Mar 2026,CUST-0158,Jeans,Clothing,MANSOURA,1,"1,702.24 EGP",Bank Transfer
+ORD-00474,2025-11-30,CUST-0011,Bluetooth Speaker,Electronics,ASWAN,5,$965.20,Credit Card
+ORD-00542,10-09-2025,CUST-0161,Air Fryer,home & kitchen,CAIRO,3,2031.70,Credit Card
+ORD-01163,02-07-2026,CUST-0029,Water Bottle,sports,ALEXANDRIA,5,3025.66,Bank Transfer
+ORD-00626,10/06/2026,CUST-0060,Keyboard,ELECTRONICS,ALEXANDRIA,3,"1,130.36 EGP",Mobile Wallet
+ORD-00961,07 Aug 2026,,USB-C Hub,Electronics, Cairo,4,165.70 EGP,Cash
+ORD-00258,21 Jun 2026,CUST-0210,T-Shirt,Clothing ,Cairo,5,812.95,Cash
+ORD-01075,12-21-2025,CUST-0300,Yoga Mat,SPORTS, Alexandria,3,2793.01,Mobile Wallet
+ORD-00087,03-22-2026,CUST-0187,Yoga Mat,SPORTS,alexandria,1,421.45,Bank Transfer
+ORD-00669,11-22-2026,CUST-0395,Dumbbells,Sports,giza,5,2315.88,Cash
+ORD-00753,2026-10-14,CUST-0372,Bluetooth Speaker,Electronics , Aswan,4,914.18,Bank Transfer
+ORD-00668,10-26-2026,CUST-0222,Jeans,clothing,Mansoura,4,$2662.18,
+ORD-00421,07 Sep 2026,CUST-0044,Webcam HD,Electronics,Cairo,1,3145.48,Credit Card
+ORD-00194,31 Mar 2026,CUST-0079,Data Science 101,Books,Cairo,1,2759.05,Mobile Wallet
+ORD-00746,2026-07-13,CUST-0356,Python Handbook,Books,CAIRO,5,$2110.95,Mobile Wallet
+ORD-01051,2025-03-07,CUST-0089,Cap,Clothing ,Giza,2,"4,259.99 EGP",Cash
+ORD-00186,2026-05-09,CUST-0142,Bluetooth Speaker,Electronics ,giza,3,"4,942.39 EGP",Bank Transfer
+ORD-00899,2025-06-29,CUST-0368,Data Science 101,Books,aswan,4,$3453.04,Credit Card
+ORD-01110,06 May 2026,CUST-0238,Blender,Home and Kitchen, Cairo,5,3388.60,
+ORD-00906,02/06/2025,CUST-0048,Keyboard,Electronics ,mansoura,5,3758.93,Cash
+ORD-00464,2026-05-25,CUST-0240,Jeans,Clothing,MANSOURA,3,4170.15,Cash
+ORD-00779,29/12/2025,CUST-0391,Water Bottle,SPORTS,Mansoura,2,163.62,Credit Card
+ORD-00015,11-05-2026,CUST-0123,Biography,Books, Alexandria,3,$1061.08,
+ORD-00513,05-04-2026,CUST-0191,Novel,Books,Alexandria,4,4144.91,
+ORD-00662,2025-10-08,CUST-0151,Biography,BOOKS,CAIRO,2,$1082.61,Cash
+ORD-00977,14 Feb 2025,CUST-0067,Blender,Home & Kitchen, Aswan,1,3836.68,Mobile Wallet
+ORD-01134,2025-06-19,CUST-0271,Yoga Mat,Sports ,Mansoura,1,2389.11,Bank Transfer
+ORD-00628,09-07-2025,CUST-0206,Cookbook,books,Alexandria,3,"3,024.66 EGP",Mobile Wallet
+ORD-00018,08/12/2025,CUST-0362,Bluetooth Speaker,Electronics,cairo,3,849.83,Mobile Wallet
+ORD-00677,03 May 2026,CUST-0188,Blender,Home & Kitchen,cairo,3,684.58,Cash
+ORD-00260,03-01-2025,CUST-0156,Blender,home & kitchen,Alexandria,5,$251.23,Cash
+ORD-00436,02-18-2026,CUST-0017,Data Science 101,Books, Alexandria,3,$2955.43,Bank Transfer
+ORD-00213,27 Apr 2025,CUST-0265,Data Science 101,Books,GIZA,3,$2724.17,Mobile Wallet
+ORD-00039,2026-05-19,CUST-0077,Biography,Books,giza,5,3165.76,Bank Transfer
+ORD-00105,31 Oct 2026,CUST-0148,Python Handbook,books,Cairo,4,$3270.17,Cash
+ORD-00112,02-10-2026,CUST-0024,Webcam HD,Electronics ,Cairo,1,$3741.73,Credit Card
+ORD-00430,05 Jun 2026,CUST-0340,Hoodie,Clothing , Alexandria,2,3650.13,Bank Transfer
+ORD-01030,04/03/2025,CUST-0246,Sneakers,clothing, Aswan,1,$4309.09,Bank Transfer
+ORD-00691,01-03-2026,CUST-0229,Air Fryer,Home & Kitchen , Giza,3,$4869.22,Cash
+ORD-00253,2026-04-17,CUST-0200,Cap,CLOTHING,giza,5,"3,346.74 EGP",Credit Card
+ORD-00826,02-20-2025,CUST-0031,Novel,Books,ASWAN,1,2194.80,Mobile Wallet
+ORD-00078,26/04/2026,CUST-0226,Blender,Home & Kitchen,GIZA,3,"3,407.62 EGP",Cash
+ORD-00680,09-29-2026,CUST-0336,Cookbook,BOOKS,giza,5,"2,227.32 EGP",Bank Transfer
+ORD-00372,28 Mar 2025,CUST-0293,Jeans,Clothing,cairo,3,950.35 EGP,Bank Transfer
+ORD-00321,06-22-2025,CUST-0298,Python Handbook,books,CAIRO,5,866.78 EGP,Credit Card
+ORD-01032,02-07-2026,CUST-0170,Air Fryer,Home & Kitchen,MANSOURA,5,"3,549.54 EGP",Credit Card
+ORD-01085,12-03-2025,CUST-0137,Wireless Mouse,electronics,alexandria,3,$4630.93,Bank Transfer
+ORD-00811,03/12/2025,CUST-0220,Football,Sports ,Alexandria,-5,3297.71,Mobile Wallet
+ORD-00892,12-12-2025,CUST-0217,Water Bottle,Sports, Giza,5,3179.25,Cash
+ORD-00080,2026-01-31,CUST-0051,Jeans,Clothing ,giza,3,1161.47,Bank Transfer
+ORD-00563,2025-03-10,CUST-0050,Webcam HD,electronics,CAIRO,2,"3,038.76 EGP",Credit Card
+ORD-00110,17 Jul 2026,CUST-0391,Biography,Books,Aswan,5,$4019.88,Mobile Wallet
+ORD-00126,01/08/2026,CUST-0277,Sneakers,Clothing,Alexandria,5,4181.52,Mobile Wallet
+ORD-01093,12 Mar 2025,CUST-0357,Cookware Set,HOME & KITCHEN,giza,1,223.06,Mobile Wallet
+ORD-00989,06/05/2026,CUST-0080,Hoodie,Clothing,aswan,1,$2760.07,Mobile Wallet
+ORD-00637,2026-10-14,CUST-0273,Desk Lamp,HOME & KITCHEN,Alexandria,5,$602.83,Cash
+ORD-00427,2026-01-07,CUST-0073,USB-C Hub,ELECTRONICS, Alexandria,1,"1,821.54 EGP",Credit Card
+ORD-00367,02-23-2026,CUST-0359,Data Science 101,BOOKS,GIZA,5,326.83,Mobile Wallet
+ORD-00002,04-05-2026,CUST-0217,Hoodie,Clothing, Alexandria,1,3806.10,Bank Transfer
+ORD-00016,29/09/2025,CUST-0190,Water Bottle,Sports, Mansoura,3,$4410.28,Credit Card
+ORD-00667,2025-04-05,CUST-0045,Jump Rope,sports,mansoura,5,833.21,Bank Transfer
+ORD-01164,07-06-2025,CUST-0176,Python Handbook,books,cairo,1,$2853.47,Credit Card
+ORD-00880,26/10/2025,CUST-0377,Water Bottle,Sports,Aswan,3,4418.33,Bank Transfer
+ORD-01024,24 May 2025,CUST-0279,Wireless Mouse,electronics, Mansoura,5,"2,348.12 EGP",Bank Transfer
+ORD-00036,29/10/2025,CUST-0298,Webcam HD,ELECTRONICS,ASWAN,4,$3474.35,Mobile Wallet
+ORD-01014,05/05/2026,CUST-0075,Biography,Books,alexandria,3,"2,240.95 EGP",Cash
+ORD-00483,2026-08-13,CUST-0253,Cap,Clothing,CAIRO,1,3729.88,Cash
+ORD-00470,19 Jul 2025,CUST-0298,Desk Lamp,HOME & KITCHEN, Cairo,1,$697.96,Cash
+ORD-01023,2025-08-27,CUST-0036,Cap,CLOTHING,CAIRO,2,276.12,Mobile Wallet
+ORD-00224,16/08/2026,CUST-0335,Cookware Set,HOME & KITCHEN,CAIRO,4,3285.69,Cash
+ORD-00166,12 Jul 2026,CUST-0199,Cookbook,Books,,3,$4567.75,Mobile Wallet
+ORD-00227,29/03/2025,CUST-0247,Cookware Set,Home and Kitchen,mansoura,4,$3052.30,Mobile Wallet
+ORD-00900,2025-06-25,CUST-0300,Novel,books,giza,4,$4007.04,Cash
+ORD-01012,26 Apr 2026,CUST-0236,Bluetooth Speaker,electronics,ALEXANDRIA,1,4541.62,Credit Card
+ORD-00643,18/05/2026,CUST-0311,Dumbbells,Sports ,cairo,4,"4,609.82 EGP",Credit Card
+ORD-01126,28 Oct 2025,CUST-0297,Football,Sports ,Alexandria,4,$4157.85,Credit Card
+ORD-00176,11-08-2026,CUST-0190,Novel,books,Giza,1,3227.24,Bank Transfer
+ORD-01199,07-19-2026,CUST-0361,Hoodie,CLOTHING,,5,"2,284.18 EGP",Mobile Wallet
+ORD-01196,08 Jul 2025,CUST-0002,Jump Rope,Sports,ASWAN,3,$489.65,Cash
+ORD-00641,17 Apr 2026,,Dumbbells,SPORTS,GIZA,5,1677.32,Bank Transfer
+ORD-00745,27/02/2025,CUST-0078,Football,SPORTS,alexandria,4,366.20,Mobile Wallet
+ORD-00913,2026-09-27,CUST-0221,Yoga Mat,SPORTS,aswan,4,$3608.26,Mobile Wallet
+ORD-00023,09-23-2026,CUST-0147,Cap,clothing, Aswan,-4,"2,762.29 EGP",Bank Transfer
+ORD-00987,2025-06-22,CUST-0181,Cookbook,Books,ASWAN,5,$3641.51,Mobile Wallet
+ORD-00420,06-18-2025,CUST-0015,Jeans,Clothing, Cairo,3,$361.08,Cash
+ORD-00523,2025-07-08,CUST-0386,Desk Lamp,Home and Kitchen,ALEXANDRIA,1,4480.04,Cash
+ORD-00584,2025-03-01,CUST-0033,Data Science 101,Books, Giza,3,$4490.37,Bank Transfer
+ORD-00345,05 Jan 2026,CUST-0328,Cookware Set,HOME & KITCHEN,aswan,3,291.14 EGP,Cash
+ORD-00079,2025-04-16,CUST-0231,Football,Sports ,Alexandria,3,465.18 EGP,Cash
+ORD-00627,12 Jun 2025,CUST-0052,Keyboard,Electronics,GIZA,4,1706.83,Credit Card
+ORD-01180,14/01/2026,CUST-0287,Football,Sports,giza,4,4218.23,Bank Transfer
+ORD-00965,17 Dec 2025,CUST-0109,Cap,CLOTHING,GIZA,3,4755.66,Cash
+ORD-00606,2025-10-06,CUST-0380,Keyboard,electronics,,4,"3,293.62 EGP",Cash
+ORD-01166,05-21-2025,CUST-0033,Blender,Home & Kitchen,,1,995.71,Credit Card
+ORD-00388,2025-04-25,CUST-0333,Sneakers,clothing,alexandria,2,4302.11,Bank Transfer
+ORD-00901,07-24-2026,CUST-0331,Cookware Set,Home and Kitchen,MANSOURA,3,2118.48,Credit Card
+ORD-00037,03/05/2025,CUST-0371,Blender,Home and Kitchen,Aswan,2,1121.10,Mobile Wallet
+ORD-00692,04-02-2025,CUST-0117,Data Science 101,books,Giza,3,3101.19,Mobile Wallet
+ORD-00254,2026-01-05,CUST-0223,T-Shirt,Clothing ,Alexandria,2,$4867.71,
+ORD-01033,02/11/2025,CUST-0114,Dumbbells,Sports , Alexandria,3,$3494.03,Cash
+ORD-00109,13 Jun 2025,CUST-0395,Blender,Home & Kitchen , Cairo,5,"4,619.37 EGP",Cash
+ORD-00071,23/10/2026,CUST-0089,Air Fryer,Home and Kitchen,CAIRO,2,558.88 EGP,Bank Transfer
+ORD-00856,20 May 2026,CUST-0024,Jeans,Clothing,cairo,4,$2205.09,Credit Card
+ORD-00651,08-05-2026,CUST-0268,Blender,HOME & KITCHEN, Alexandria,5,226.94,Mobile Wallet
+ORD-01047,12-02-2026,CUST-0098,Water Bottle,Sports ,mansoura,1,$3079.78,Cash
+ORD-00761,03-09-2026,CUST-0176,Wireless Mouse,ELECTRONICS,ALEXANDRIA,4,102.31,Credit Card
+ORD-00872,22/03/2025,CUST-0217,USB-C Hub,electronics, Aswan,1,1930.16,Bank Transfer
+ORD-00968,2026-04-19,CUST-0003,USB-C Hub,electronics,Giza,4,$2988.56,Mobile Wallet
+ORD-00117,05 Jul 2026,CUST-0363,Hoodie,Clothing,MANSOURA,2,"4,254.24 EGP",Cash
+ORD-00850,2025-11-19,CUST-0053,Water Bottle,sports,ASWAN,4,$3655.83,Credit Card
+ORD-00316,08-04-2026,CUST-0324,USB-C Hub,electronics, Cairo,3,3425.09,Bank Transfer
+ORD-01166,05-21-2025,CUST-0033,Blender,Home & Kitchen,,1,995.71,Credit Card
+ORD-00863,2026-09-30,CUST-0061,Novel,books,Mansoura,5,$2391.24,Cash
+ORD-01077,03-25-2026,CUST-0061,Air Fryer,HOME & KITCHEN,GIZA,1,4174.67,Mobile Wallet
+ORD-00353,2025-07-03,CUST-0268,Blender,home & kitchen,CAIRO,4,3376.87,Credit Card
+ORD-00129,09-05-2026,CUST-0399,Dumbbells,SPORTS,aswan,4,$111.09,Cash
+ORD-00876,12/06/2026,CUST-0015,Wireless Mouse,Electronics,Aswan,5,3423.58,Bank Transfer
+ORD-00295,11-15-2025,CUST-0242,Keyboard,Electronics ,Cairo,5,"2,246.06 EGP",Bank Transfer
+ORD-00751,09/09/2026,CUST-0342,Python Handbook,Books,Alexandria,4,2426.87,Credit Card
+ORD-00187,19 Feb 2026,CUST-0098,Data Science 101,Books,ALEXANDRIA,1,2935.97,Mobile Wallet
+ORD-00770,15/11/2026,CUST-0245,Hoodie,CLOTHING,cairo,5,769.74,Bank Transfer
+ORD-00140,24/05/2025,CUST-0184,Desk Lamp,Home & Kitchen ,MANSOURA,3,4217.83,Bank Transfer
+ORD-00048,28/01/2026,CUST-0362,Water Bottle,Sports,mansoura,4,266.05,Credit Card
+ORD-01190,2026-04-20,CUST-0274,Jeans,Clothing,giza,4,$3700.81,Mobile Wallet
+ORD-00878,2026-04-04,CUST-0038,Water Bottle,Sports,alexandria,3,"2,054.43 EGP",Bank Transfer
+ORD-00230,18 Oct 2025,CUST-0004,Wireless Mouse,Electronics,CAIRO,3,985.65,Mobile Wallet
+ORD-00164,04-05-2025,CUST-0087,Jeans,clothing,MANSOURA,1,261.35,Bank Transfer
+ORD-00743,13 Jan 2026,CUST-0081,Webcam HD,Electronics, Giza,2,2261.09,Cash
+ORD-00485,2025-12-28,CUST-0058,Dumbbells,Sports,Alexandria,4,"2,502.76 EGP",Bank Transfer
+ORD-00450,25/01/2025,CUST-0028,Blender,Home & Kitchen,alexandria,3,1746.51,Bank Transfer
+ORD-00170,10-27-2026,CUST-0315,Python Handbook,Books,alexandria,2,3550.56,Mobile Wallet
+ORD-00265,10-20-2026,CUST-0041,Dumbbells,Sports,GIZA,1,3667.41,Credit Card
+ORD-00719,01-08-2026,CUST-0272,Biography,Books ,alexandria,3,"3,343.60 EGP",Mobile Wallet
+ORD-00386,2025-02-16,CUST-0301,Python Handbook,Books, Mansoura,4,4389.94,Cash
+ORD-00574,30 Aug 2025,CUST-0313,Webcam HD,ELECTRONICS,Cairo,1,4038.03,Credit Card
+ORD-00405,2026-05-16,CUST-0023,Cap,clothing,ASWAN,1,2760.31,Bank Transfer
+ORD-00550,04-14-2025,CUST-0208,Football,Sports, Cairo,2,4418.87,Cash
+ORD-00246,04/08/2025,CUST-0243,Webcam HD,electronics,Cairo,4,559.90,Cash
+ORD-00705,09-10-2025,CUST-0097,Coffee Maker,HOME & KITCHEN,CAIRO,2,1235.28,Credit Card
+ORD-00539,05-29-2025,CUST-0368,Air Fryer,home & kitchen, Mansoura,1,97.68 EGP,Credit Card
+ORD-00881,01/01/2026,CUST-0200,Wireless Mouse,Electronics,,2,4481.22,Bank Transfer
+ORD-00982,06-14-2025,CUST-0195,Jeans,clothing,alexandria,1,$410.75,Bank Transfer
+ORD-00266,2025-11-09,CUST-0258,USB-C Hub,electronics,ALEXANDRIA,3,2722.65,Credit Card
+ORD-00842,04 Jun 2026,CUST-0002,Webcam HD,Electronics, Alexandria,4,$179.94,Mobile Wallet
+ORD-00580,2025-03-28,CUST-0010,Air Fryer,HOME & KITCHEN,mansoura,3,"4,280.14 EGP",Cash
+ORD-00216,2025-02-16,CUST-0352,Water Bottle,Sports ,CAIRO,3,"4,643.84 EGP",Credit Card
+ORD-01026,04-23-2025,CUST-0165,Keyboard,Electronics ,Giza,2,2868.08,Mobile Wallet
+ORD-00218,28/04/2025,CUST-0282,Sneakers,CLOTHING,Aswan,5,$4268.64,Cash
+ORD-00491,07/10/2026,CUST-0141,Water Bottle,sports,alexandria,2,646.28,Credit Card
+ORD-00148,31/08/2026,CUST-0357,Sneakers,Clothing,CAIRO,-5,"3,415.91 EGP",Bank Transfer
+ORD-00935,05-10-2025,CUST-0323,Dumbbells,Sports,Aswan,5,2714.29,Bank Transfer
+ORD-00223,11/02/2025,CUST-0120,Coffee Maker,HOME & KITCHEN, Alexandria,4,"1,197.16 EGP",Bank Transfer
+ORD-00248,10-18-2026,CUST-0046,Dumbbells,Sports ,giza,3,2434.18,Credit Card
+ORD-00501,07 Aug 2026,CUST-0084,Sneakers,Clothing ,mansoura,-2,$3255.44,Credit Card
+ORD-00921,01-04-2025,CUST-0163,Water Bottle,Sports ,Cairo,2,3355.16,Mobile Wallet
+ORD-00369,03/04/2025,CUST-0225,Desk Lamp,HOME & KITCHEN, Mansoura,3,1091.41,Bank Transfer
+ORD-01111,03 Feb 2025,CUST-0044,Football,SPORTS,cairo,3,3117.57,Cash
+ORD-00168,05/08/2026,CUST-0253,Desk Lamp,Home and Kitchen,Alexandria,5,$4744.42,
+ORD-00566,2025-10-11,CUST-0258,Biography,books,Aswan,2,"1,820.85 EGP",Cash
+ORD-01074,13 Sep 2025,CUST-0035,Webcam HD,Electronics,mansoura,2,$3309.14,Bank Transfer
+ORD-00783,31/07/2026,CUST-0200,Wireless Mouse,ELECTRONICS,GIZA,1,"2,288.62 EGP",Bank Transfer
+ORD-00251,2025-02-20,CUST-0065,Hoodie,Clothing ,,2,4863.05,Cash
+ORD-00599,09/09/2025,CUST-0345,Wireless Mouse,electronics,mansoura,5,1912.23,Mobile Wallet
+ORD-01034,12/09/2025,CUST-0209,Webcam HD,Electronics,cairo,3,2314.72,Bank Transfer
+ORD-00091,23 Jun 2026,CUST-0163,Data Science 101,Books, Mansoura,4,$4125.53,Cash
+ORD-00486,06 Feb 2025,CUST-0004,Yoga Mat,Sports ,,5,$4249.34,Cash
+ORD-01075,12-21-2025,CUST-0300,Yoga Mat,SPORTS, Alexandria,3,2793.01,Mobile Wallet
+ORD-01191,22/11/2026,CUST-0308,Wireless Mouse,Electronics,CAIRO,3,1547.31,Bank Transfer
+ORD-00870,03/09/2026,CUST-0382,Hoodie,Clothing,Mansoura,3,146.34 EGP,Credit Card
+ORD-00716,01 Mar 2025,,Water Bottle,sports,ASWAN,5,642.23 EGP,Bank Transfer
+ORD-00933,2026-02-22,CUST-0001,T-Shirt,CLOTHING, Alexandria,2,"1,106.05 EGP",Credit Card
+ORD-00629,21/06/2026,CUST-0171,Jump Rope,Sports , Cairo,5,$3771.66,Cash
+ORD-01018,02-16-2025,CUST-0090,Biography,BOOKS,CAIRO,3,"1,294.56 EGP",Mobile Wallet
+ORD-00561,07-11-2026,CUST-0207,Yoga Mat,Sports,MANSOURA,1,3788.91,Credit Card
+ORD-00771,25 Nov 2025,CUST-0192,Keyboard,electronics,aswan,1,"1,003.40 EGP",Cash
+ORD-00588,2026-01-23,CUST-0041,Cap,Clothing,ALEXANDRIA,2,1936.39,Credit Card
+ORD-00596,09/04/2025,CUST-0015,Hoodie,Clothing,,5,4202.01,Credit Card
+ORD-00661,11-07-2025,CUST-0382,Cookbook,Books ,GIZA,2,$1565.85,Credit Card
+ORD-00331,10/07/2026,CUST-0029,Football,Sports,Giza,1,$3121.25,Bank Transfer
+ORD-00200,2026-06-16,CUST-0178,Desk Lamp,home & kitchen,,4,3325.48,Cash
+ORD-00742,2026-09-04,CUST-0100,Jeans,Clothing,ASWAN,3,3680.43,Credit Card
+ORD-00975,2025-06-22,CUST-0120,Jeans,CLOTHING,Giza,4,"3,599.58 EGP",Credit Card
+ORD-00873,10-31-2025,CUST-0087,Yoga Mat,SPORTS,GIZA,3,$2983.15,Credit Card
+ORD-00104,22/04/2025,CUST-0116,Jeans,Clothing, Cairo,2,$301.29,Credit Card
+ORD-00865,17/07/2026,CUST-0347,Wireless Mouse,electronics,GIZA,4,2973.04,Mobile Wallet
+ORD-00833,2025-12-05,CUST-0295,Python Handbook,Books, Mansoura,1,"2,543.32 EGP",
+ORD-00220,04/01/2026,CUST-0184,Blender,home & kitchen,mansoura,3,4395.53,Credit Card
+ORD-00415,24 Jul 2026,CUST-0333,Cookbook,BOOKS,ASWAN,4,2713.75,Mobile Wallet
+ORD-00932,09 Feb 2026,CUST-0228,Coffee Maker,home & kitchen,Cairo,2,$4953.45,Credit Card
+ORD-01189,16/02/2026,CUST-0008,Keyboard,ELECTRONICS,Aswan,5,$4658.12,Cash
+ORD-01173,02-23-2025,CUST-0146,Blender,home & kitchen,Cairo,4,$1011.32,Credit Card
+ORD-00836,06-17-2026,CUST-0273,Cookware Set,Home & Kitchen,ALEXANDRIA,4,829.12 EGP,Bank Transfer
+ORD-00538,2025-06-21,CUST-0310,Data Science 101,Books,Aswan,5,"1,302.67 EGP",Mobile Wallet
+ORD-01113,01-03-2026,CUST-0002,Webcam HD,Electronics,CAIRO,1,4399.31,Mobile Wallet
+ORD-00664,24 Apr 2025,CUST-0397,Cookware Set,HOME & KITCHEN, Alexandria,2,"4,410.21 EGP",Credit Card
+ORD-00730,14/03/2025,CUST-0236,Dumbbells,Sports,Giza,5,3149.33,Credit Card
+ORD-00890,2025-10-18,CUST-0197,Wireless Mouse,electronics,CAIRO,1,"3,892.85 EGP",Cash
+ORD-00636,2025-02-10,CUST-0307,Blender,Home & Kitchen , Giza,4,"2,328.24 EGP",Credit Card
+ORD-00948,2025-06-23,CUST-0195,Python Handbook,Books , Cairo,2,4344.67,Credit Card
+ORD-01170,05/05/2026,CUST-0261,Novel,Books,mansoura,-4,3953.25,Cash
+ORD-00100,04 Sep 2026,CUST-0398,Bluetooth Speaker,Electronics,ALEXANDRIA,3,4837.00,Bank Transfer
+ORD-00219,2025-10-19,CUST-0316,USB-C Hub,electronics, Aswan,2,1623.04,Bank Transfer
+ORD-00634,06-14-2025,,Wireless Mouse,Electronics ,Mansoura,2,2894.68,Mobile Wallet
+ORD-00271,2025-10-05,CUST-0199,Jump Rope,Sports,Giza,-4,3291.05,Bank Transfer
+ORD-00801,10-26-2025,CUST-0085,Jeans,Clothing ,Giza,3,3346.99,Credit Card
+ORD-00058,08 Jun 2025,,Football,SPORTS,GIZA,1,"4,176.78 EGP",Mobile Wallet
+ORD-01177,02 Jul 2025,CUST-0186,Biography,Books,Mansoura,4,"3,309.54 EGP",Cash
+ORD-00581,09-16-2026,,Keyboard,ELECTRONICS,ASWAN,3,4060.71,Credit Card
+ORD-00453,03-27-2025,CUST-0090,Data Science 101,books, Mansoura,5,$2709.13,Bank Transfer
+ORD-00315,08 Feb 2025,CUST-0201,Wireless Mouse,Electronics,ASWAN,3,800.46,Bank Transfer
+ORD-00805,2026-04-30,CUST-0034,Hoodie,CLOTHING,GIZA,3,824.83,Bank Transfer
+ORD-01020,2026-11-14,CUST-0050,Sneakers,Clothing,Cairo,1,3132.61,Cash
+ORD-01090,24 Jan 2026,CUST-0354,T-Shirt,CLOTHING,aswan,2,4579.31,Cash
+ORD-00077,25/09/2026,CUST-0355,Air Fryer,Home & Kitchen ,Alexandria,5,$1914.76,Cash
+ORD-01165,08 Oct 2025,CUST-0323,Data Science 101,Books,giza,3,798.17 EGP,Bank Transfer
+ORD-00262,07-18-2026,CUST-0372,Desk Lamp,Home & Kitchen ,alexandria,3,2091.10,Mobile Wallet
+ORD-01091,01-11-2026,CUST-0172,Wireless Mouse,ELECTRONICS,MANSOURA,4,3345.01,Mobile Wallet
+ORD-00765,23/04/2025,CUST-0003,Biography,books,Alexandria,1,1035.66,Cash
+ORD-00787,11/07/2025,CUST-0140,Dumbbells,sports,Cairo,1,"1,661.12 EGP",Cash
+ORD-01158,26 Aug 2026,,Sneakers,Clothing ,CAIRO,3,3135.97,Credit Card
+ORD-00586,08-29-2025,CUST-0262,Jump Rope,sports, Alexandria,1,433.52 EGP,Bank Transfer
+ORD-00451,2025-07-17,CUST-0089,Bluetooth Speaker,electronics,Alexandria,2,"4,694.46 EGP",Bank Transfer
+ORD-00540,2026-11-19,CUST-0388,Football,Sports,Giza,5,"4,468.69 EGP",Bank Transfer
+ORD-00356,06-01-2026,,Cookbook,Books,Cairo,5,"1,750.90 EGP",Mobile Wallet
+ORD-00056,25/05/2025,CUST-0188,USB-C Hub,electronics,Mansoura,4,"4,837.99 EGP",Mobile Wallet
+ORD-00622,2026-11-15,CUST-0076,Cookbook,Books,Cairo,1,"1,005.05 EGP",Cash
+ORD-00324,30/06/2025,CUST-0108,Data Science 101,Books,GIZA,1,317.44,Credit Card
+ORD-01028,11-11-2025,CUST-0063,Sneakers,Clothing,aswan,1,3968.95,Mobile Wallet
+ORD-00509,2025-04-23,CUST-0399,Jeans,clothing,GIZA,3,1836.25,Cash
+ORD-00648,2026-04-19,CUST-0209,Cap,Clothing,Mansoura,1,3755.61,Mobile Wallet
+ORD-00858,18/07/2026,CUST-0249,Yoga Mat,SPORTS,aswan,4,2881.61,Mobile Wallet
+ORD-00236,09-21-2025,CUST-0395,Football,sports,GIZA,4,$4831.97,Credit Card
+ORD-00452,14 Aug 2026,CUST-0041,Desk Lamp,Home & Kitchen ,giza,2,1395.71,Bank Transfer
+ORD-01059,08/06/2025,CUST-0079,Cap,Clothing,aswan,2,"4,505.34 EGP",Cash
+ORD-00005,19/11/2025,CUST-0235,Jump Rope,sports, Alexandria,4,2008.38,Bank Transfer
+ORD-00204,18/09/2025,CUST-0111,Keyboard,Electronics ,Alexandria,2,$647.69,Credit Card
+ORD-00277,08 Jul 2025,,Coffee Maker,Home & Kitchen ,CAIRO,4,2395.54,Cash
+ORD-00073,2026-08-18,CUST-0097,Python Handbook,books,Mansoura,4,4549.80,Mobile Wallet
+ORD-00028,31 Jul 2025,,Webcam HD,Electronics,Aswan,4,$4528.95,Mobile Wallet
+ORD-00940,21 Sep 2026,CUST-0224,Jump Rope,Sports, Cairo,4,"2,512.64 EGP",Mobile Wallet
+ORD-00517,2025-08-02,CUST-0050,Sneakers,CLOTHING, Alexandria,2,"2,856.16 EGP",Credit Card
+ORD-01162,13/03/2026,CUST-0289,Yoga Mat,Sports,aswan,-1,"4,068.64 EGP",Mobile Wallet
+ORD-00065,04 Nov 2026,CUST-0285,Hoodie,CLOTHING,GIZA,2,"4,244.01 EGP",Credit Card
+ORD-00362,06-01-2026,CUST-0213,Blender,Home & Kitchen ,aswan,4,3334.11,Cash
+ORD-00830,24 Jul 2025,CUST-0195,Dumbbells,Sports , Alexandria,5,2847.82,Mobile Wallet
+ORD-01067,2026-06-17,CUST-0294,Desk Lamp,Home & Kitchen, Cairo,2,52.70,Cash
+ORD-00686,28/04/2026,CUST-0381,Football,Sports , Alexandria,4,$1529.17,Credit Card
+ORD-00670,07-08-2026,CUST-0118,Jeans,Clothing,ALEXANDRIA,1,1670.93,Cash
+ORD-00814,2026-09-28,CUST-0268,Webcam HD,Electronics,,1,853.35,Bank Transfer
+ORD-00158,10-26-2025,CUST-0253,Cap,Clothing,alexandria,5,1250.79,
+ORD-00784,06/05/2026,CUST-0265,Blender,Home and Kitchen,ALEXANDRIA,2,1134.73,Cash
+ORD-00842,04 Jun 2026,CUST-0002,Webcam HD,Electronics, Alexandria,4,$179.94,Mobile Wallet
+ORD-01066,2026-02-08,CUST-0017,Yoga Mat,Sports,Alexandria,3,"4,826.02 EGP",Mobile Wallet
+ORD-00459,04/08/2026,CUST-0389,Python Handbook,BOOKS,Mansoura,2,1044.66,Cash
+ORD-00032,2025-04-21,CUST-0193,Air Fryer,Home and Kitchen,alexandria,3,"2,900.19 EGP",Mobile Wallet
+ORD-00434,2025-09-25,CUST-0207,Dumbbells,sports,Aswan,3,1445.13,Cash
+ORD-00151,2025-10-30,CUST-0256,Biography,Books,Cairo,2,2499.69,Mobile Wallet
+ORD-00318,01 Jul 2026,CUST-0370,Data Science 101,Books,CAIRO,1,233.36,Cash
+ORD-00143,10 Oct 2026,CUST-0106,Football,SPORTS, Aswan,2,3099.95,Cash
+ORD-01088,11-16-2026,CUST-0383,Webcam HD,ELECTRONICS,,2,$676.36,Cash
+ORD-00106,11 Feb 2026,CUST-0149,Keyboard,electronics,Cairo,2,4686.21,Mobile Wallet
+ORD-01185,11 Sep 2025,CUST-0126,Sneakers,Clothing,MANSOURA,3,$4578.49,Credit Card
+ORD-00241,08 Jul 2025,CUST-0191,Cookware Set,Home and Kitchen,mansoura,4,1092.14,Cash
+ORD-00962,16 Mar 2025,CUST-0061,Sneakers,Clothing,Mansoura,3,$1711.29,Cash
+ORD-00390,15 May 2026,CUST-0348,Keyboard,Electronics ,Mansoura,4,2591.11,Bank Transfer
+ORD-01002,10-20-2025,CUST-0294,Desk Lamp,HOME & KITCHEN, Aswan,1,"2,700.66 EGP",Mobile Wallet
+ORD-00323,30/08/2025,CUST-0317,Dumbbells,sports,ASWAN,1,4933.69,Cash
+ORD-00776,09 Sep 2025,CUST-0236,Desk Lamp,home & kitchen,Alexandria,4,"3,599.36 EGP",Bank Transfer
+ORD-00507,03-14-2026,CUST-0094,Football,sports,GIZA,2,497.71,Bank Transfer
+ORD-00632,01-06-2026,CUST-0385,Desk Lamp,Home & Kitchen ,cairo,5,4125.03,Credit Card
+ORD-00950,12 Mar 2025,CUST-0035,Jump Rope,Sports, Giza,4,"2,397.14 EGP",Mobile Wallet
+ORD-00127,01-31-2025,CUST-0193,Coffee Maker,home & kitchen,Aswan,4,$2478.49,Mobile Wallet
+ORD-00153,08/06/2026,CUST-0325,Wireless Mouse,Electronics,CAIRO,2,2705.13,Cash
+ORD-00844,2025-12-30,CUST-0270,Water Bottle,Sports,Cairo,5,3904.14,Bank Transfer
+ORD-00725,05-19-2026,CUST-0036,Bluetooth Speaker,ELECTRONICS,ASWAN,3,4939.69,Credit Card
+ORD-00172,2025-09-20,CUST-0215,Desk Lamp,Home and Kitchen,MANSOURA,1,$288.33,Bank Transfer
+ORD-01052,2025-04-17,CUST-0030,Keyboard,Electronics ,Giza,5,1667.25,Bank Transfer
+ORD-00416,04-19-2026,CUST-0011,Webcam HD,Electronics, Giza,2,$2250.66,Cash
+ORD-00408,09/10/2025,CUST-0297,Wireless Mouse,electronics,ASWAN,2,"4,156.97 EGP",Bank Transfer
+ORD-00777,04-11-2026,CUST-0027,Data Science 101,Books,MANSOURA,5,2858.90,Mobile Wallet
+ORD-00381,14 Feb 2025,CUST-0292,Air Fryer,Home & Kitchen , Cairo,3,"4,739.72 EGP",Credit Card
+ORD-00291,2026-09-02,CUST-0017,Hoodie,CLOTHING,cairo,3,$3541.07,Mobile Wallet
+ORD-00217,11-02-2025,CUST-0064,Cap,clothing,Aswan,1,"2,789.94 EGP",Mobile Wallet
+ORD-00543,04-18-2025,CUST-0371,T-Shirt,CLOTHING,Giza,4,"1,170.39 EGP",Credit Card
+ORD-00359,10-26-2026,CUST-0157,Sneakers,Clothing , Alexandria,5,470.46 EGP,Bank Transfer
+ORD-00897,04-20-2026,CUST-0207,Football,SPORTS,cairo,1,"2,685.94 EGP",Mobile Wallet
+ORD-00357,19 May 2026,CUST-0392,Sneakers,Clothing,MANSOURA,2,"1,596.68 EGP",Cash
+ORD-00399,27 Oct 2026,CUST-0276,Blender,Home and Kitchen, Alexandria,2,$4410.82,Mobile Wallet
+ORD-01021,07 Feb 2025,CUST-0248,Python Handbook,BOOKS,aswan,2,417.26,Bank Transfer
+ORD-00562,2025-03-04,CUST-0028,Cookware Set,Home & Kitchen,ASWAN,5,$3388.34,Cash
+ORD-00752,2025-06-13,CUST-0217,Yoga Mat,SPORTS,GIZA,1,$1871.85,Mobile Wallet
+ORD-00993,2025-01-03,CUST-0226,T-Shirt,clothing,Giza,3,3590.47,Cash
+ORD-00702,2025-09-21,CUST-0350,Water Bottle,Sports,,5,$351.46,Bank Transfer
+ORD-00789,09 Jul 2026,CUST-0267,Jump Rope,Sports,ASWAN,5,"2,359.77 EGP",Bank Transfer
+ORD-00834,26/06/2025,CUST-0101,Jeans,clothing,ALEXANDRIA,2,"3,700.50 EGP",Bank Transfer
+ORD-01101,12/10/2026,,Bluetooth Speaker,Electronics ,ASWAN,2,$3765.73,Bank Transfer
+ORD-00954,04/08/2026,CUST-0026,T-Shirt,clothing,aswan,2,2609.55,Credit Card
+ORD-00980,2026-02-02,CUST-0292,Desk Lamp,Home & Kitchen ,CAIRO,1,$343.66,Credit Card
+ORD-00231,01-10-2026,CUST-0286,Jump Rope,Sports,GIZA,4,3787.11,Mobile Wallet
+ORD-00338,01-05-2025,CUST-0387,T-Shirt,Clothing,ASWAN,3,2395.86,Credit Card
+ORD-00697,10/09/2025,CUST-0260,Air Fryer,Home & Kitchen ,aswan,1,4906.00,Cash
+ORD-00896,2025-07-14,,Cap,CLOTHING,Giza,2,$1040.90,Credit Card
+ORD-00916,02-13-2026,CUST-0022,Python Handbook,Books, Aswan,1,$2470.47,Cash
+ORD-00571,09 Jul 2025,CUST-0243,Desk Lamp,Home and Kitchen,giza,2,"4,170.39 EGP",Bank Transfer
+ORD-00293,2026-02-01,CUST-0305,Novel,books,Giza,1,$1589.36,
+ORD-01013,2026-05-19,CUST-0284,Webcam HD,ELECTRONICS,aswan,2,"2,012.31 EGP",Bank Transfer
+ORD-00712,03 May 2025,CUST-0255,Webcam HD,Electronics,ASWAN,2,"4,753.53 EGP",Credit Card
+ORD-00832,15 Oct 2025,CUST-0314,Wireless Mouse,Electronics ,giza,2,$512.74,Mobile Wallet
+ORD-00605,06 Dec 2025,,Cookware Set,home & kitchen,Cairo,2,$2787.11,Bank Transfer
+ORD-01068,15/01/2025,,Cap,clothing,CAIRO,4,"3,952.10 EGP",Bank Transfer
+ORD-00846,11-26-2026,CUST-0342,Dumbbells,Sports,Mansoura,2,2632.53,Bank Transfer
+ORD-01070,2025-02-01,CUST-0063,Keyboard,Electronics , Giza,2,"2,167.25 EGP",Mobile Wallet
+ORD-00959,08-29-2026,CUST-0008,Dumbbells,Sports,ASWAN,5,2373.70,Cash
+ORD-00678,2026-09-22,CUST-0338,Cookware Set,Home and Kitchen, Mansoura,2,1169.81,Cash
+ORD-00862,05-28-2026,CUST-0100,Webcam HD,Electronics,alexandria,5,3112.98,Cash
+ORD-00505,03-20-2025,CUST-0044,Blender,HOME & KITCHEN,ASWAN,1,"1,834.44 EGP",Cash
+ORD-00358,2025-11-25,CUST-0188,Cookware Set,Home & Kitchen, Aswan,1,$2972.79,Bank Transfer
+ORD-00475,23 Jul 2026,CUST-0106,USB-C Hub,electronics,Cairo,3,659.07,Credit Card
+ORD-01061,01 Apr 2026,CUST-0057,Jump Rope,Sports,aswan,1,$2330.19,Mobile Wallet
+ORD-00748,24 Aug 2025,CUST-0189,Hoodie,clothing,alexandria,1,"1,779.44 EGP",Mobile Wallet
+ORD-00441,14/02/2025,CUST-0150,Biography,BOOKS,cairo,2,1405.19,Bank Transfer
+ORD-01065,25 Feb 2026,CUST-0323,Keyboard,ELECTRONICS,Mansoura,2,$1480.43,Mobile Wallet
+ORD-00755,2026-04-04,CUST-0223,Sneakers,Clothing,Mansoura,1,"4,373.93 EGP",Credit Card
+ORD-00051,01-03-2026,CUST-0290,Blender,Home and Kitchen,Alexandria,4,770.57,Bank Transfer
+ORD-00363,2026-10-04,CUST-0124,Jump Rope,SPORTS,GIZA,5,"1,043.21 EGP",Credit Card
+ORD-00960,02 Feb 2026,CUST-0286,Hoodie,Clothing ,ASWAN,1,2663.37,Credit Card
+ORD-00192,2025-03-08,CUST-0267,Jeans,Clothing ,giza,3,$4744.89,Bank Transfer
+ORD-00665,2025-05-24,CUST-0396,USB-C Hub,Electronics,ALEXANDRIA,3,4788.14,Mobile Wallet
+ORD-00589,03/10/2025,CUST-0125,Desk Lamp,Home & Kitchen , Giza,5,"1,500.67 EGP",Credit Card
+ORD-00867,31/01/2025,CUST-0342,Webcam HD,Electronics,MANSOURA,-4,$3774.05,Credit Card
+ORD-00237,02-27-2026,CUST-0135,Cookware Set,Home and Kitchen, Cairo,5,$2701.48,Cash
+ORD-00376,17 Sep 2025,CUST-0068,Webcam HD,ELECTRONICS,aswan,3,4888.74,Bank Transfer
+ORD-00612,11-24-2026,CUST-0289,Cookware Set,home & kitchen,alexandria,5,$1645.81,Mobile Wallet
+ORD-00713,27 May 2025,CUST-0258,Novel,BOOKS, Alexandria,5,"3,857.18 EGP",Credit Card
+ORD-01161,10-18-2025,CUST-0259,Blender,home & kitchen,aswan,1,$1168.88,Cash
+ORD-01192,22/09/2025,CUST-0381,Air Fryer,Home & Kitchen ,alexandria,3,1198.40,Credit Card
+ORD-00767,2025-03-08,CUST-0244,Bluetooth Speaker,Electronics ,alexandria,3,"4,395.02 EGP",Cash
+ORD-00472,06-12-2026,CUST-0370,Webcam HD,Electronics,CAIRO,5,2197.42,Cash
+ORD-01174,06-14-2025,CUST-0114,T-Shirt,CLOTHING,CAIRO,4,513.55,Cash
+ORD-01041,21 Feb 2025,CUST-0226,Cookware Set,Home and Kitchen, Mansoura,3,"3,217.10 EGP",Credit Card
+ORD-00958,20 Mar 2026,CUST-0332,Python Handbook,Books,Giza,4,1379.93,Cash
+ORD-00378,24 Jul 2026,,Hoodie,Clothing,GIZA,1,985.15,Bank Transfer
+ORD-00269,30 May 2025,CUST-0351,Football,Sports,Cairo,1,4624.86,Cash
+ORD-00957,2025-11-20,CUST-0009,Water Bottle,Sports,Mansoura,1,68.07,Mobile Wallet
+ORD-01167,29 Mar 2026,CUST-0239,Water Bottle,SPORTS, Alexandria,5,"2,331.93 EGP",Cash
+ORD-00139,2025-11-17,CUST-0356,Cap,clothing,mansoura,2,1561.63,Bank Transfer
+ORD-00374,07/09/2026,CUST-0093,Hoodie,Clothing , Alexandria,3,3647.20,Bank Transfer
+ORD-01061,01 Apr 2026,CUST-0057,Jump Rope,Sports,aswan,1,$2330.19,Mobile Wallet
+ORD-00030,18/04/2026,CUST-0233,Cap,CLOTHING,MANSOURA,1,1337.77,Credit Card
+ORD-00655,03/04/2026,CUST-0354,Wireless Mouse,Electronics,ALEXANDRIA,2,$1317.56,Mobile Wallet
+ORD-00774,10-05-2025,CUST-0166,Desk Lamp,Home and Kitchen, Aswan,5,$2591.91,Mobile Wallet
+ORD-00149,21 May 2025,CUST-0036,Blender,Home and Kitchen,cairo,2,$3225.80,Cash
+ORD-00169,07-01-2025,CUST-0073,Cookware Set,home & kitchen,Aswan,1,158.47,Bank Transfer
+ORD-00122,2025-06-04,CUST-0317,Keyboard,Electronics,,2,2553.38,
+ORD-00607,2026-03-12,CUST-0136,Air Fryer,HOME & KITCHEN, Aswan,3,$1406.55,Cash
+ORD-00045,26 May 2026,CUST-0148,Water Bottle,sports,mansoura,1,1057.61,Mobile Wallet
+ORD-00601,01 Jan 2026,CUST-0387,Jump Rope,Sports, Mansoura,3,527.84,Bank Transfer
+ORD-00782,14/09/2026,CUST-0358,Data Science 101,books,alexandria,3,765.35,Mobile Wallet
+ORD-01022,03-07-2026,CUST-0324,Dumbbells,Sports,Giza,2,"4,211.27 EGP",Bank Transfer
+ORD-00124,2026-12-02,CUST-0283,Cookware Set,Home & Kitchen,Cairo,1,512.83,Bank Transfer
+ORD-01021,07 Feb 2025,CUST-0248,Python Handbook,BOOKS,aswan,2,417.26,Bank Transfer
+ORD-00559,23/05/2025,CUST-0155,Jump Rope,Sports,GIZA,3,721.67 EGP,Bank Transfer
+ORD-00639,30/04/2025,CUST-0264,Cookbook,books,Alexandria,5,1341.83,Bank Transfer
+ORD-00795,05 Jun 2025,,Data Science 101,books,Cairo,5,2862.52,Bank Transfer
+ORD-00273,05-29-2026,CUST-0016,Sneakers,Clothing, Giza,1,$3147.67,Cash
+ORD-00440,2026-04-19,CUST-0234,Cookbook,books,giza,1,1475.16,Cash
+ORD-00649,2026-05-08,CUST-0372,Novel,Books,GIZA,3,4067.73,Credit Card
+ORD-00663,30 Nov 2025,CUST-0024,T-Shirt,CLOTHING,MANSOURA,5,2375.87,Bank Transfer
+ORD-00090,11/06/2025,CUST-0103,Air Fryer,Home & Kitchen,Alexandria,3,2568.34,Mobile Wallet
+ORD-00264,31/12/2025,CUST-0128,Novel,books,GIZA,2,1361.69,Cash
+ORD-00544,01-24-2026,CUST-0062,Dumbbells,Sports ,ALEXANDRIA,2,"4,628.05 EGP",Credit Card
+ORD-00983,08-15-2025,CUST-0378,T-Shirt,Clothing,ASWAN,3,4287.26,Credit Card
+ORD-00953,06-29-2025,CUST-0333,Coffee Maker,Home and Kitchen,mansoura,2,4527.56,Credit Card
+ORD-00046,01/05/2025,CUST-0362,Biography,books,mansoura,4,"4,666.63 EGP",Cash
+ORD-00380,2025-12-03,CUST-0202,Webcam HD,ELECTRONICS,,3,3422.50,Bank Transfer
+ORD-01143,11/04/2025,CUST-0255,Air Fryer,home & kitchen,giza,2,2981.76,Credit Card
+ORD-00445,09-13-2025,CUST-0015,Jeans,Clothing,Giza,-2,1039.93,Credit Card
+ORD-00981,05-28-2026,CUST-0340,Cookbook,books, Giza,2,3597.45,
+ORD-00772,18 Mar 2025,CUST-0044,Novel,Books,Alexandria,5,203.02 EGP,Bank Transfer
+ORD-00406,15 Nov 2026,CUST-0320,Cookbook,Books,MANSOURA,2,4338.41,Credit Card
+ORD-00836,06-17-2026,CUST-0273,Cookware Set,Home & Kitchen,ALEXANDRIA,4,829.12 EGP,Bank Transfer
+ORD-01087,01 Apr 2026,CUST-0287,USB-C Hub,Electronics,mansoura,5,282.62,Mobile Wallet
+ORD-01106,24/04/2025,CUST-0243,Novel,books,mansoura,5,$4048.33,Cash
+ORD-00054,27/12/2025,CUST-0370,Football,Sports,Alexandria,2,"3,123.41 EGP",Bank Transfer
+ORD-00339,25/09/2026,CUST-0312,Cookbook,Books, Aswan,4,1819.10,Credit Card
+ORD-00050,2026-07-09,CUST-0148,Novel,Books,Cairo,5,388.68,Credit Card
+ORD-00411,21 Jul 2026,CUST-0120,Cookbook,Books,Cairo,1,$2446.65,Cash
+ORD-00530,24 Jun 2025,CUST-0316,Blender,HOME & KITCHEN,CAIRO,2,2800.91,Bank Transfer
+ORD-01116,13 Sep 2025,CUST-0126,Hoodie,Clothing,Cairo,1,"4,457.08 EGP",Mobile Wallet
+ORD-00222,2026-04-21,CUST-0123,Cap,clothing,aswan,-4,1851.13,Cash
+ORD-00007,28 Oct 2025,CUST-0369,Keyboard,electronics,Aswan,2,$2295.93,Mobile Wallet
+ORD-00460,29 Aug 2025,CUST-0032,Water Bottle,SPORTS,Cairo,4,3380.38,Credit Card
+ORD-00569,2025-09-14,CUST-0391,Water Bottle,sports, Cairo,1,4241.67,Bank Transfer
+ORD-00813,2025-12-12,CUST-0239,Novel,books, Mansoura,5,"3,841.70 EGP",Mobile Wallet
+ORD-00383,09/06/2026,CUST-0138,Desk Lamp,Home and Kitchen,MANSOURA,4,2254.94,Cash
+ORD-00133,21 Nov 2026,CUST-0338,Biography,Books ,Mansoura,2,"3,185.01 EGP",Bank Transfer
+ORD-00017,2025-04-29,CUST-0108,Coffee Maker,Home & Kitchen , Alexandria,5,819.47,Mobile Wallet
+ORD-00309,10-20-2026,CUST-0244,Webcam HD,Electronics ,ASWAN,1,309.99 EGP,Cash
+ORD-00548,09 Nov 2026,CUST-0044,Novel,Books ,ALEXANDRIA,3,1364.61,Credit Card
+ORD-01147,03 Mar 2026,CUST-0194,Data Science 101,Books ,Alexandria,3,$723.73,Cash
+ORD-00822,01-06-2025,CUST-0097,Biography,books,alexandria,5,3983.57,Bank Transfer
+ORD-00394,02-17-2025,CUST-0310,Air Fryer,Home & Kitchen,CAIRO,2,4274.37,Credit Card
+ORD-00768,27 Sep 2025,CUST-0299,Jump Rope,Sports,aswan,1,4855.78,Cash
+ORD-00142,14/07/2026,CUST-0385,Python Handbook,books, Cairo,4,556.96 EGP,Credit Card
+ORD-01127,08-29-2025,CUST-0158,Sneakers,Clothing,Mansoura,3,"4,067.89 EGP",Mobile Wallet
+ORD-00238,24/07/2025,CUST-0104,Cookbook,Books,Aswan,2,4370.08,Credit Card
+ORD-00845,10-03-2026,CUST-0128,Blender,Home & Kitchen,mansoura,2,2760.01,Credit Card
+ORD-01042,02-08-2026,CUST-0076,Python Handbook,Books,mansoura,3,4578.55,Credit Card
+ORD-00385,2025-03-20,CUST-0049,Yoga Mat,Sports , Aswan,5,$582.78,Credit Card
+ORD-01029,18/01/2025,CUST-0257,Blender,Home & Kitchen,aswan,2,1161.42,Mobile Wallet
+ORD-00778,04-21-2025,CUST-0352,Cookware Set,home & kitchen,,2,"3,930.16 EGP",Mobile Wallet
+ORD-00720,07/02/2026,CUST-0154,Cap,Clothing ,aswan,4,$587.82,Cash
+ORD-01120,2026-04-11,CUST-0049,Coffee Maker,HOME & KITCHEN, Aswan,1,1508.56,Credit Card
+ORD-01005,2026-07-01,CUST-0086,Bluetooth Speaker,ELECTRONICS,CAIRO,4,$4703.73,Mobile Wallet
+ORD-00185,09-16-2025,CUST-0179,Hoodie,Clothing,ALEXANDRIA,3,"2,147.84 EGP",Credit Card
+ORD-00810,03 Jul 2026,CUST-0393,Air Fryer,Home & Kitchen,Giza,1,2533.67,Cash
+ORD-00816,08-08-2026,CUST-0333,Keyboard,Electronics,CAIRO,1,4938.93,Credit Card
+ORD-00418,2026-11-26,,Sneakers,Clothing,Mansoura,5,"3,091.56 EGP",Mobile Wallet
+ORD-01089,2025-02-13,CUST-0052,Cookbook,Books, Cairo,5,1674.05,Cash
+ORD-00498,10/02/2025,CUST-0027,Air Fryer,HOME & KITCHEN,alexandria,3,"4,639.88 EGP",Credit Card
+ORD-00812,06-17-2025,CUST-0278,T-Shirt,CLOTHING,cairo,1,3837.21,Credit Card
+ORD-00432,04-01-2026,CUST-0319,Desk Lamp,Home & Kitchen ,MANSOURA,2,2940.61,Bank Transfer
+ORD-00279,26 Jul 2026,CUST-0098,Wireless Mouse,electronics, Mansoura,5,3837.54,Bank Transfer
+ORD-00591,2025-11-18,CUST-0076,Air Fryer,Home & Kitchen ,,1,$2072.09,Credit Card
+ORD-00250,06-14-2026,CUST-0138,Hoodie,Clothing , Cairo,3,3259.86,Bank Transfer
+ORD-01140,2025-10-27,CUST-0055,Yoga Mat,SPORTS,Aswan,2,166.75,Mobile Wallet
+ORD-01105,2025-04-06,CUST-0022,Hoodie,CLOTHING,MANSOURA,2,2725.65,Cash
+ORD-01155,09-17-2025,CUST-0226,Cap,Clothing ,GIZA,4,"2,908.98 EGP",Credit Card
+ORD-00633,10-19-2025,CUST-0134,T-Shirt,Clothing,MANSOURA,4,3392.60,Credit Card
+ORD-01046,10-24-2025,CUST-0010,Jeans,CLOTHING,,3,2241.95,
+ORD-00764,30/05/2026,CUST-0275,Webcam HD,electronics,Cairo,4,"1,409.97 EGP",Bank Transfer
+ORD-00886,18 Dec 2025,CUST-0302,Sneakers,Clothing, Alexandria,2,4844.71,Credit Card
+ORD-00297,10 Apr 2026,CUST-0246,Desk Lamp,Home & Kitchen, Alexandria,1,373.56,Cash
+ORD-00066,2025-12-26,CUST-0206,Cookware Set,HOME & KITCHEN,cairo,2,4355.82,Bank Transfer
+ORD-00769,06-22-2026,CUST-0071,Bluetooth Speaker,Electronics ,alexandria,5,2676.07,Bank Transfer
+ORD-00455,03-23-2026,CUST-0353,Hoodie,Clothing,CAIRO,3,$2572.56,Cash
+ORD-00082,2026-09-04,CUST-0150,Novel,Books,ASWAN,5,2896.48,Credit Card
+ORD-00202,18 Feb 2026,CUST-0047,USB-C Hub,electronics,aswan,-1,"2,807.80 EGP",Bank Transfer
+ORD-00656,2025-11-07,CUST-0298,Yoga Mat,Sports ,Cairo,2,$1176.55,Credit Card
+ORD-00141,01/02/2025,CUST-0148,Football,SPORTS,MANSOURA,3,211.84,Credit Card
+ORD-00792,09-05-2026,CUST-0021,Wireless Mouse,Electronics, Mansoura,3,4114.42,
+ORD-00835,2025-06-07,,Data Science 101,Books ,ALEXANDRIA,-2,$2394.96,Cash
+ORD-00909,2025-08-02,CUST-0155,Air Fryer,Home and Kitchen, Cairo,2,"2,303.95 EGP",Credit Card
+ORD-00545,2025-08-20,CUST-0181,Python Handbook,books,alexandria,3,3842.70,Credit Card
+ORD-00059,06 May 2025,CUST-0306,Cap,clothing,cairo,1,$3330.71,Cash
+ORD-00809,17 Aug 2025,CUST-0020,Jump Rope,Sports,,3,1536.40,Cash
+ORD-01199,07-19-2026,CUST-0361,Hoodie,CLOTHING,,5,"2,284.18 EGP",Mobile Wallet
+ORD-00744,02-23-2025,CUST-0369,Wireless Mouse,ELECTRONICS, Cairo,5,2411.65,Mobile Wallet
+ORD-00492,04 Mar 2025,CUST-0144,Novel,Books ,Mansoura,1,1556.24,Credit Card
+ORD-00304,06 Apr 2026,CUST-0004,Yoga Mat,SPORTS, Alexandria,3,1167.42,Mobile Wallet
+ORD-01141,09 Jan 2026,CUST-0119,Novel,Books,aswan,3,"2,051.19 EGP",Credit Card
+ORD-01001,08-24-2026,CUST-0123,Python Handbook,BOOKS, Aswan,3,$4737.60,Bank Transfer
+ORD-00373,04-02-2025,CUST-0368,Hoodie,Clothing ,MANSOURA,2,4738.86,Cash
+ORD-00280,2026-05-28,CUST-0357,Bluetooth Speaker,Electronics,,2,$3904.72,Bank Transfer
+ORD-00489,14 Feb 2026,CUST-0011,Air Fryer,Home & Kitchen ,giza,2,593.18 EGP,Mobile Wallet
+ORD-00488,01-06-2025,CUST-0069,Novel,Books ,giza,2,$597.79,Bank Transfer
+ORD-00008,2026-06-28,CUST-0186,Jump Rope,Sports,giza,-5,$1654.57,Credit Card
+ORD-00695,22/05/2026,CUST-0332,Webcam HD,Electronics,alexandria,2,$1264.49,Bank Transfer
+ORD-00482,29 Dec 2025,CUST-0267,Python Handbook,Books,Alexandria,5,1469.76,Bank Transfer
+ORD-01188,22/05/2025,CUST-0332,Jump Rope,Sports ,Mansoura,1,3487.62,Bank Transfer
+ORD-00232,13/04/2025,CUST-0282,Cap,Clothing,Cairo,5,"2,032.78 EGP",Cash
+ORD-00322,03/05/2026,CUST-0231,Python Handbook,BOOKS,Alexandria,2,758.28,Bank Transfer
+ORD-01007,09/04/2026,CUST-0209,Novel,Books , Mansoura,5,2178.37,Credit Card
+ORD-01045,2025-06-17,CUST-0058,Jeans,Clothing, Mansoura,3,$4292.92,Bank Transfer
+ORD-00163,2025-05-05,CUST-0067,T-Shirt,Clothing,Mansoura,1,4160.34,Mobile Wallet
+ORD-00689,14 Sep 2026,CUST-0196,Dumbbells,Sports,Cairo,5,2618.89,Credit Card
+ORD-00973,04-05-2026,CUST-0082,Cookware Set,Home & Kitchen ,Alexandria,3,446.31 EGP,Mobile Wallet
+ORD-00818,10-15-2025,CUST-0187,T-Shirt,Clothing,,4,4907.49,Mobile Wallet
+ORD-00466,26 Jan 2026,CUST-0045,Data Science 101,Books ,giza,2,1156.58,Credit Card
+ORD-00303,18/11/2026,CUST-0074,Air Fryer,Home and Kitchen,mansoura,2,107.43,Bank Transfer
+ORD-00034,06 Jul 2026,CUST-0138,Jump Rope,Sports ,Alexandria,4,2206.09,Bank Transfer
+ORD-00413,10/10/2026,CUST-0083,Air Fryer,Home & Kitchen ,Aswan,5,"4,211.39 EGP",Credit Card
+ORD-00672,2025-08-03,CUST-0163,T-Shirt,Clothing , Alexandria,4,3716.18,Credit Card
+ORD-01171,23/07/2026,CUST-0387,Cap,Clothing,ALEXANDRIA,2,$958.66,Mobile Wallet
+ORD-00115,15 Feb 2025,CUST-0398,Hoodie,clothing,aswan,4,$1209.98,Mobile Wallet
+ORD-00123,22 Nov 2026,CUST-0077,Jump Rope,sports, Aswan,2,$579.73,Bank Transfer
+ORD-00674,2026-08-02,CUST-0241,Sneakers,Clothing ,cairo,2,$2617.18,Mobile Wallet
+ORD-00191,2025-01-05,CUST-0008,Novel,Books,Aswan,5,"1,037.10 EGP",Cash
+ORD-01121,13 Nov 2026,CUST-0309,Blender,Home & Kitchen ,,1,4422.68,Credit Card
+ORD-00974,2026-11-14,CUST-0052,USB-C Hub,Electronics ,Aswan,2,543.66,Credit Card
+ORD-00820,11-05-2026,CUST-0021,Yoga Mat,Sports, Mansoura,1,4481.86,Credit Card
+ORD-00167,11/09/2025,CUST-0378,Keyboard,ELECTRONICS,ALEXANDRIA,3,2691.76,Cash
+ORD-00352,2025-02-11,CUST-0234,Jump Rope,Sports,GIZA,3,2493.88,Bank Transfer
+ORD-00049,23 Jun 2026,CUST-0336,USB-C Hub,Electronics, Cairo,1,"3,626.10 EGP",Bank Transfer
+ORD-00575,24/05/2026,,Wireless Mouse,Electronics,cairo,3,2186.00,Bank Transfer
+ORD-00955,19 Jun 2026,CUST-0016,Wireless Mouse,electronics,ASWAN,4,2198.15,
+ORD-00567,11 Mar 2025,CUST-0093,Biography,Books, Aswan,4,4814.65,Mobile Wallet
+ORD-01027,2025-08-29,CUST-0318,Desk Lamp,HOME & KITCHEN,ASWAN,3,"3,089.70 EGP",Mobile Wallet
+ORD-00551,09 Jul 2025,CUST-0088,Webcam HD,Electronics, Cairo,3,"4,270.19 EGP",Cash
+ORD-00344,08 May 2026,CUST-0356,Dumbbells,sports,Giza,3,3158.58,Cash
+ORD-00099,09-20-2026,CUST-0154,Coffee Maker,Home & Kitchen,ASWAN,2,"1,995.13 EGP",Mobile Wallet
+ORD-00103,05 May 2025,CUST-0075,Desk Lamp,Home and Kitchen,Giza,4,"4,100.97 EGP",Bank Transfer
+ORD-00388,2025-04-25,CUST-0333,Sneakers,clothing,alexandria,2,4302.11,Bank Transfer
+ORD-00400,2026-03-09,CUST-0260,Blender,Home and Kitchen,Cairo,1,$4215.84,Credit Card
+ORD-00831,16/04/2025,CUST-0240,Bluetooth Speaker,Electronics,CAIRO,2,2083.14,Cash
+ORD-01149,01-07-2025,CUST-0310,Desk Lamp,HOME & KITCHEN,MANSOURA,1,"3,452.16 EGP",Mobile Wallet
+ORD-01155,09-17-2025,CUST-0226,Cap,Clothing ,GIZA,4,"2,908.98 EGP",Credit Card
+ORD-01157,08-16-2025,CUST-0220,Cookbook,Books,MANSOURA,1,"1,527.40 EGP",Mobile Wallet
+ORD-00937,12-02-2025,CUST-0338,Bluetooth Speaker,Electronics ,cairo,5,1343.03,Bank Transfer
+ORD-00903,05-18-2026,CUST-0266,T-Shirt,clothing,Alexandria,2,2918.91,Mobile Wallet
+ORD-00081,01-20-2025,CUST-0373,Webcam HD,Electronics, Mansoura,2,4183.07,Credit Card
+ORD-00228,30/01/2026,CUST-0259,Biography,Books,alexandria,1,$131.99,Credit Card
+ORD-00887,27 Sep 2025,CUST-0388,Yoga Mat,Sports,,5,1655.66,Mobile Wallet
+ORD-00289,07-18-2025,CUST-0243,Sneakers,Clothing,ALEXANDRIA,3,"4,615.28 EGP",Mobile Wallet
+ORD-00645,2025-10-23,CUST-0336,Python Handbook,books,CAIRO,5,4157.84,Bank Transfer
+ORD-01040,26 Mar 2026,CUST-0374,USB-C Hub,Electronics,CAIRO,3,$3319.74,Bank Transfer
+ORD-00843,08/06/2026,CUST-0159,Coffee Maker,home & kitchen,Aswan,3,1879.35,Credit Card
+ORD-00741,10/10/2025,CUST-0127,Sneakers,Clothing,CAIRO,3,$4246.48,Mobile Wallet
+ORD-00860,02-18-2025,CUST-0149,Water Bottle,Sports,ALEXANDRIA,5,2925.18,Cash
+ORD-00985,03/08/2026,CUST-0395,Blender,home & kitchen,alexandria,1,896.41 EGP,Cash
+ORD-00095,2026-06-12,CUST-0231,Blender,Home and Kitchen,CAIRO,3,$1246.60,Bank Transfer
+ORD-01124,19/05/2026,CUST-0216,Blender,home & kitchen,mansoura,3,1212.65,Credit Card
+ORD-01102,2025-10-24,CUST-0345,Sneakers,Clothing ,Mansoura,3,4170.29,Mobile Wallet
+ORD-00614,25/12/2025,CUST-0141,Keyboard,electronics, Mansoura,3,$3162.67,Bank Transfer
+ORD-01010,15 Jun 2026,CUST-0331,Hoodie,clothing, Mansoura,-2,$4537.10,Mobile Wallet
+ORD-00733,02-27-2026,CUST-0377,Yoga Mat,Sports, Cairo,2,2161.29,Cash
+ORD-00696,18 Aug 2026,CUST-0383,Dumbbells,SPORTS, Giza,5,$4448.59,Mobile Wallet
+ORD-00043,2026-08-14,CUST-0143,Cookware Set,Home & Kitchen,ASWAN,2,"2,378.98 EGP",Bank Transfer
+ORD-00173,2026-04-08,CUST-0054,Cap,Clothing,alexandria,1,$1509.80,Credit Card
+ORD-01084,2025-04-24,CUST-0299,Dumbbells,Sports ,Aswan,2,760.12,Mobile Wallet
+ORD-01079,28 Jun 2025,CUST-0285,Desk Lamp,home & kitchen, Giza,-5,$2402.33,Bank Transfer
+ORD-00495,01/07/2026,CUST-0365,T-Shirt,Clothing, Aswan,1,682.77,Credit Card
+ORD-00572,01 May 2025,CUST-0012,Bluetooth Speaker,Electronics, Giza,2,$304.82,Mobile Wallet
+ORD-00934,23/05/2026,CUST-0163,Coffee Maker,Home & Kitchen ,,3,666.62,Bank Transfer
+ORD-00738,22/05/2026,CUST-0324,Football,sports,GIZA,4,2478.01,Cash
+ORD-00518,01-08-2026,CUST-0236,Water Bottle,SPORTS,MANSOURA,1,402.11,Cash
+ORD-00044,05-23-2026,CUST-0233,Biography,Books,GIZA,4,"4,077.15 EGP",Credit Card
+ORD-00500,19/07/2026,CUST-0298,Jump Rope,sports,mansoura,4,$1142.16,Bank Transfer
+ORD-00443,18 Nov 2026,CUST-0337,Air Fryer,HOME & KITCHEN, Mansoura,4,2333.72,Cash
+ORD-00861,10 Aug 2026,CUST-0389,Water Bottle,SPORTS, Mansoura,3,"4,159.90 EGP",Mobile Wallet
+ORD-01115,15 Feb 2025,CUST-0154,Yoga Mat,Sports,CAIRO,1,"2,731.80 EGP",Mobile Wallet
+ORD-00781,23 Feb 2026,CUST-0315,Keyboard,Electronics, Cairo,4,794.41,Bank Transfer
+ORD-00055,29/06/2025,CUST-0188,Novel,BOOKS, Giza,2,3943.24,Bank Transfer
+ORD-00922,2026-10-26,CUST-0062,Jeans,CLOTHING, Mansoura,2,2343.08,Bank Transfer
+ORD-00520,04-18-2025,CUST-0038,Jeans,Clothing , Mansoura,4,$833.12,Bank Transfer
+ORD-01084,2025-04-24,CUST-0299,Dumbbells,Sports ,Aswan,2,760.12,Mobile Wallet
+ORD-00967,18/09/2026,CUST-0337,Webcam HD,Electronics,Alexandria,4,4435.25,Cash
+ORD-00871,19/07/2025,CUST-0068,Keyboard,Electronics ,giza,2,$2296.64,Bank Transfer
+ORD-01144,10-30-2025,CUST-0190,T-Shirt,clothing,MANSOURA,4,3803.97,Mobile Wallet
+ORD-00308,30 Aug 2025,CUST-0176,Blender,home & kitchen,alexandria,2,"4,006.89 EGP",Bank Transfer
+ORD-00480,06-29-2025,CUST-0271,Webcam HD,Electronics, Aswan,5,4115.65,Credit Card
+ORD-00620,15 Sep 2026,CUST-0332,Data Science 101,books,Cairo,4,910.17,Cash
+ORD-00195,2025-04-27,CUST-0135,Blender,Home & Kitchen ,ALEXANDRIA,4,1033.30,Credit Card
+ORD-00057,2025-08-15,CUST-0210,Water Bottle,Sports , Cairo,4,4551.47,Credit Card
+ORD-00205,2025-01-05,CUST-0248,Biography,BOOKS,alexandria,5,4679.78,Cash
+ORD-00136,05-10-2026,CUST-0232,Dumbbells,sports,,4,$533.23,Mobile Wallet
+ORD-00428,09/09/2025,,Dumbbells,SPORTS,Alexandria,2,156.39,Cash
+ORD-00739,19 Jan 2025,CUST-0168,USB-C Hub,electronics,GIZA,3,$2114.15,Mobile Wallet
+ORD-00351,27/08/2026,CUST-0182,Coffee Maker,Home & Kitchen ,mansoura,4,"3,383.95 EGP",Mobile Wallet
+ORD-01187,28/04/2026,CUST-0087,Novel,BOOKS,ASWAN,5,"2,102.81 EGP",Credit Card
+ORD-00740,17/09/2026,CUST-0010,Jump Rope,SPORTS,cairo,2,2468.51,Credit Card
+ORD-00209,06-08-2026,CUST-0351,Hoodie,Clothing, Aswan,1,$4636.10,Bank Transfer
+ORD-00888,08 May 2026,CUST-0361,USB-C Hub,ELECTRONICS,Alexandria,2,282.10 EGP,Mobile Wallet
+ORD-00212,24/12/2025,CUST-0151,Keyboard,electronics,Aswan,2,"3,333.51 EGP",Mobile Wallet
+ORD-00615,08-10-2025,CUST-0268,Wireless Mouse,electronics, Mansoura,2,$1351.54,Bank Transfer
+ORD-00727,03-20-2026,CUST-0337,Python Handbook,books,Cairo,1,1400.54,Credit Card
+ORD-00448,03-11-2025,CUST-0196,Cookbook,Books,Alexandria,1,$3062.24,Credit Card
+ORD-00709,04-30-2025,CUST-0170,Jeans,Clothing, Mansoura,1,4526.76,Bank Transfer
+ORD-00290,11-26-2026,CUST-0351,Jump Rope,sports,giza,5,2702.63,Credit Card
+ORD-01056,23/12/2025,CUST-0203,Keyboard,Electronics,Cairo,2,"2,719.24 EGP",Cash
+ORD-00923,08-08-2026,CUST-0166,Cookbook,Books, Alexandria,2,"1,204.83 EGP",Credit Card
+ORD-01096,2025-12-26,CUST-0276,Coffee Maker,Home & Kitchen ,MANSOURA,2,4164.23,Mobile Wallet
+ORD-00347,2026-04-17,CUST-0246,Novel,Books,GIZA,1,$4103.28,Mobile Wallet
+ORD-00715,14/06/2025,CUST-0351,Dumbbells,sports,aswan,5,4822.67,Mobile Wallet
+ORD-00623,16 Dec 2025,CUST-0238,Wireless Mouse,ELECTRONICS,Cairo,5,$4188.72,Credit Card
+ORD-01039,08-19-2026,CUST-0139,Jeans,clothing, Alexandria,-4,894.61 EGP,Credit Card
+ORD-00330,2026-08-21,CUST-0361,Football,SPORTS,Giza,4,"2,345.62 EGP",Credit Card
+ORD-00402,14 May 2025,CUST-0270,Cookbook,Books ,ASWAN,2,2258.51,Bank Transfer
+ORD-00156,2026-06-06,CUST-0024,Sneakers,clothing,mansoura,-1,"4,300.51 EGP",Credit Card
+ORD-01175,01 May 2026,CUST-0270,Webcam HD,Electronics , Giza,2,$1985.07,Cash
+ORD-00554,2026-10-18,CUST-0338,Yoga Mat,Sports ,giza,2,"4,894.26 EGP",Bank Transfer
+ORD-00547,28/09/2026,CUST-0085,Data Science 101,Books ,aswan,4,980.37,Credit Card
+ORD-00456,12 Sep 2026,CUST-0340,Air Fryer,Home & Kitchen,Cairo,2,$1308.73,Bank Transfer
+ORD-00676,22/01/2026,CUST-0115,Water Bottle,Sports,CAIRO,2,545.57,Bank Transfer
+ORD-00022,02/01/2025,CUST-0170,Novel,books, Cairo,3,2184.92,Bank Transfer
+ORD-00762,2026-07-06,CUST-0180,Python Handbook,Books,MANSOURA,4,$3458.53,Bank Transfer
+ORD-01053,11-18-2025,CUST-0205,Jeans,Clothing ,cairo,4,$3207.14,Cash
+ORD-00644,03-05-2026,CUST-0341,Sneakers,Clothing ,GIZA,3,$3863.97,Bank Transfer
+ORD-00286,2025-03-01,CUST-0045,Water Bottle,SPORTS, Aswan,5,3662.16,Mobile Wallet
+ORD-00972,07/11/2025,CUST-0323,Jump Rope,SPORTS,giza,3,4011.00,Mobile Wallet
+ORD-00701,26 Jan 2026,CUST-0160,Data Science 101,Books,MANSOURA,2,4243.96,Mobile Wallet
+ORD-00409,2025-09-21,CUST-0147,Python Handbook,BOOKS,giza,1,4899.94,Bank Transfer
+ORD-00568,31/01/2025,CUST-0348,Webcam HD,Electronics ,alexandria,2,527.88,Cash
+ORD-00558,27/05/2025,,Cookware Set,home & kitchen,GIZA,4,"2,946.86 EGP",Credit Card
+ORD-00841,2026-11-20,CUST-0134,Novel,Books,ASWAN,5,3245.75,Credit Card
+ORD-00938,2025-04-27,CUST-0032,Blender,Home and Kitchen,ASWAN,4,439.10 EGP,Mobile Wallet
+ORD-00381,14 Feb 2025,CUST-0292,Air Fryer,Home & Kitchen , Cairo,3,"4,739.72 EGP",Credit Card
+ORD-00527,19 Oct 2025,CUST-0051,Biography,Books,Cairo,3,3525.36,Bank Transfer
+ORD-00245,11-18-2025,CUST-0203,Jeans,clothing, Mansoura,3,"3,566.65 EGP",Bank Transfer
+ORD-00041,03/02/2025,CUST-0233,Cookware Set,Home & Kitchen,alexandria,3,"3,549.43 EGP",Cash
+ORD-00749,07-20-2025,,Coffee Maker,home & kitchen,ASWAN,3,"1,993.53 EGP",Credit Card
+ORD-00757,09-09-2026,CUST-0239,Bluetooth Speaker,Electronics,aswan,2,$1697.38,Mobile Wallet
+ORD-01183,03-02-2026,CUST-0199,Coffee Maker,Home and Kitchen,Mansoura,4,4252.94,Mobile Wallet
+ORD-01049,08-30-2026,CUST-0394,Jeans,clothing, Cairo,1,$403.11,Bank Transfer
+ORD-00165,05/02/2025,CUST-0246,Cap,Clothing ,GIZA,3,"2,519.51 EGP",Cash
+ORD-00788,13 Oct 2025,CUST-0366,Jump Rope,Sports ,Aswan,2,2301.97,
+ORD-00404,05-04-2025,CUST-0061,Keyboard,ELECTRONICS,,5,$1483.47,Cash
+ORD-00392,11-21-2026,CUST-0319,Python Handbook,Books ,cairo,4,$4008.79,Cash
+ORD-00603,02 Oct 2025,CUST-0158,Keyboard,electronics,alexandria,2,1732.22,Credit Card
+ORD-00215,2025-03-31,CUST-0037,Wireless Mouse,Electronics,ALEXANDRIA,1,931.06,Bank Transfer
+ORD-00698,2026-03-23,CUST-0333,Football,Sports,giza,2,159.47,Mobile Wallet
+ORD-00025,14/02/2026,CUST-0385,Data Science 101,Books,cairo,-2,3297.49,Bank Transfer
+ORD-01009,05/11/2025,CUST-0112,Dumbbells,Sports ,Aswan,5,"3,476.88 EGP",Cash
+ORD-01146,11-05-2025,CUST-0083,Webcam HD,Electronics,GIZA,4,3375.01,Bank Transfer
+ORD-00084,09/10/2026,,Biography,Books,alexandria,2,362.35,Mobile Wallet
+ORD-00183,13 Jan 2026,,Cookware Set,HOME & KITCHEN,GIZA,5,2014.86,Bank Transfer
+ORD-00154,14/11/2026,CUST-0006,Cookware Set,Home & Kitchen, Giza,1,112.69,Cash
+ORD-00560,02 Jan 2026,CUST-0211,Football,Sports,ASWAN,3,$2166.96,Cash
+ORD-00729,2026-06-06,CUST-0055,Coffee Maker,Home & Kitchen,alexandria,1,"4,063.24 EGP",Cash
+ORD-00808,10 Feb 2025,CUST-0387,Cookbook,Books,GIZA,5,"2,758.26 EGP",Credit Card
+ORD-00946,29/09/2025,CUST-0356,Desk Lamp,HOME & KITCHEN, Aswan,3,683.19,Mobile Wallet
+ORD-00619,11-14-2025,CUST-0258,Football,Sports, Aswan,1,4559.65,Bank Transfer
+ORD-00255,02/04/2025,CUST-0174,Blender,Home and Kitchen,cairo,2,"2,524.60 EGP",Credit Card
+ORD-00780,10 Sep 2025,CUST-0089,Keyboard,Electronics ,giza,2,1248.02,Bank Transfer
+ORD-00019,04/08/2025,CUST-0209,Coffee Maker,HOME & KITCHEN,alexandria,1,1800.71,Cash
+ORD-00283,21/05/2026,CUST-0210,Water Bottle,sports,aswan,2,$2964.87,Mobile Wallet
+ORD-00553,10 Dec 2025,CUST-0132,Air Fryer,Home and Kitchen,Giza,4,"3,687.33 EGP",Mobile Wallet
+ORD-00121,16 May 2026,CUST-0087,Coffee Maker,Home & Kitchen ,Aswan,4,$882.76,Credit Card
+ORD-00320,27 Jul 2025,CUST-0348,Keyboard,Electronics,cairo,3,$4067.03,Cash
+ORD-00915,09-10-2025,CUST-0129,T-Shirt,Clothing ,Cairo,4,4215.81,Credit Card
+ORD-00327,2025-05-20,CUST-0176,Air Fryer,home & kitchen,giza,4,2319.97,Cash
+ORD-00319,2026-04-28,CUST-0089,Wireless Mouse,Electronics,Giza,2,$3521.42,Cash
+ORD-00735,14/07/2025,CUST-0210,Dumbbells,Sports ,MANSOURA,5,894.24,Bank Transfer
+ORD-00013,03 Jan 2025,CUST-0147,Python Handbook,Books,ASWAN,3,"4,636.26 EGP",Mobile Wallet
+ORD-01151,05 Jul 2025,CUST-0067,T-Shirt,Clothing ,alexandria,2,4308.55,Cash
+ORD-00849,18 May 2025,CUST-0353,Blender,HOME & KITCHEN,Giza,5,"4,167.18 EGP",Mobile Wallet
+ORD-00914,08-16-2025,CUST-0316,USB-C Hub,ELECTRONICS,MANSOURA,1,1286.00,Mobile Wallet
+ORD-00252,2025-12-05,CUST-0037,Bluetooth Speaker,Electronics , Alexandria,2,327.39,Credit Card
+ORD-00877,19/02/2026,CUST-0277,Sneakers,CLOTHING, Alexandria,-1,"1,857.18 EGP",Cash
+ORD-00012,05/04/2026,CUST-0039,Jump Rope,Sports ,Aswan,4,$958.27,Cash
+ORD-00292,2026-03-31,CUST-0175,Keyboard,electronics, Aswan,4,4529.53,Credit Card
+ORD-00104,22/04/2025,CUST-0116,Jeans,Clothing, Cairo,2,$301.29,Credit Card
+ORD-01138,09 Mar 2025,CUST-0187,Blender,Home & Kitchen,Alexandria,5,3465.96,Bank Transfer
+ORD-00969,19 Jun 2026,CUST-0212,Yoga Mat,Sports,ASWAN,4,2985.84,Bank Transfer
+ORD-01008,01-12-2026,CUST-0013,USB-C Hub,electronics,mansoura,5,3308.51,Credit Card
+ORD-00097,18/03/2026,CUST-0188,Keyboard,Electronics,cairo,3,3651.16,Mobile Wallet
+ORD-00816,08-08-2026,CUST-0333,Keyboard,Electronics,CAIRO,1,4938.93,Credit Card
+ORD-00240,28 Jun 2025,,Novel,Books ,Alexandria,1,"3,506.31 EGP",Mobile Wallet
+ORD-00510,2026-01-16,CUST-0305,Cookbook,books,cairo,1,$3330.60,
+ORD-00750,08-31-2026,CUST-0118,Hoodie,Clothing ,Giza,3,2345.71,Cash
+ORD-00804,2025-03-02,CUST-0077,Wireless Mouse,Electronics, Giza,2,582.99 EGP,Bank Transfer
+ORD-00556,12-22-2025,CUST-0351,Football,SPORTS, Alexandria,1,4848.88,Cash
+ORD-00534,2026-05-14,CUST-0161,Keyboard,Electronics,mansoura,2,"3,452.32 EGP",Cash
+ORD-00926,22/05/2025,CUST-0183,Yoga Mat,Sports,ALEXANDRIA,1,"2,283.89 EGP",Mobile Wallet
+ORD-00658,04 Jun 2026,CUST-0136,Blender,HOME & KITCHEN, Alexandria,5,1454.59,Credit Card
+ORD-00826,02-20-2025,CUST-0031,Novel,Books,ASWAN,1,2194.80,Mobile Wallet
+ORD-00162,02/12/2025,CUST-0203,Cap,clothing,giza,1,3570.23,Bank Transfer
+ORD-00710,10-04-2026,CUST-0140,Jump Rope,Sports,CAIRO,2,4704.35,Cash
+ORD-00706,21/10/2026,CUST-0102,Football,Sports,MANSOURA,3,1635.57,Credit Card
+ORD-00003,03-22-2025,CUST-0099,Cookbook,BOOKS, Cairo,5,"4,432.99 EGP",Cash
+ORD-01043,2026-04-14,CUST-0284,Jump Rope,Sports,Aswan,2,$3499.60,Credit Card
+ORD-00726,10 Sep 2026,CUST-0087,Blender,home & kitchen, Giza,1,"3,128.22 EGP",Credit Card
+ORD-01104,14 Dec 2025,CUST-0050,Webcam HD,Electronics,,4,$3044.33,Bank Transfer
+ORD-00076,2026-01-06,CUST-0175,Yoga Mat,Sports,mansoura,3,1578.89,Mobile Wallet
+ORD-00524,04/09/2026,CUST-0075,Yoga Mat,Sports ,GIZA,1,3627.48,Bank Transfer
+ORD-00395,18/04/2025,CUST-0081,Football,sports,MANSOURA,1,$4360.80,Credit Card
+ORD-01172,03/04/2025,CUST-0148,Webcam HD,Electronics ,Alexandria,2,"1,266.14 EGP",Bank Transfer
+ORD-00721,05/08/2026,CUST-0394,Data Science 101,Books ,mansoura,3,4918.98,Mobile Wallet
+ORD-00549,29/10/2025,CUST-0312,T-Shirt,Clothing,Mansoura,4,924.39,Credit Card
+ORD-00161,2026-08-22,CUST-0161,T-Shirt,CLOTHING,aswan,2,573.01,Bank Transfer
+ORD-00711,05/04/2026,CUST-0082,Webcam HD,ELECTRONICS, Mansoura,2,399.10 EGP,Mobile Wallet
+ORD-00341,31 Mar 2026,CUST-0218,Cap,Clothing,Mansoura,4,1478.74,Mobile Wallet
+ORD-00490,26 Mar 2025,CUST-0096,Python Handbook,Books,cairo,2,$3107.19,Bank Transfer
+ORD-00990,04/05/2026,CUST-0315,T-Shirt,Clothing ,alexandria,1,$317.17,Cash
+ORD-00184,29 Jan 2025,CUST-0110,Coffee Maker,home & kitchen, Alexandria,1,856.39,Credit Card
+ORD-00732,2025-07-09,CUST-0074,Novel,books,Aswan,1,920.46 EGP,Credit Card
+ORD-01148,11/09/2026,CUST-0259,Blender,HOME & KITCHEN,Aswan,2,$4470.93,Bank Transfer
+ORD-00966,17/06/2026,CUST-0124,Novel,Books,,2,"3,459.79 EGP",Credit Card
+ORD-00147,06-12-2025,CUST-0191,Coffee Maker,Home & Kitchen, Alexandria,1,3290.21,Cash
+ORD-00157,03-21-2025,CUST-0092,Cookware Set,Home and Kitchen,ASWAN,1,"2,535.10 EGP",Bank Transfer
+ORD-01181,14/12/2025,CUST-0161,Water Bottle,Sports,GIZA,5,$4378.26,Cash
+ORD-00847,2025-09-15,CUST-0150,Blender,HOME & KITCHEN, Mansoura,4,$4373.55,Credit Card
+ORD-00964,17 Jan 2026,,Coffee Maker,Home & Kitchen, Aswan,1,1628.85,Credit Card
+ORD-00011,30 Apr 2026,CUST-0182,Hoodie,Clothing,Mansoura,2,$516.91,Credit Card
+ORD-00135,19 Jan 2026,CUST-0257,Data Science 101,BOOKS, Cairo,4,$3873.09,Credit Card
+ORD-00646,08 Aug 2026,CUST-0292,Dumbbells,sports,Cairo,1,$1658.85,Bank Transfer
+ORD-01118,07 Oct 2025,CUST-0049,Dumbbells,sports,Alexandria,4,"2,236.00 EGP",Credit Card
+ORD-00264,31/12/2025,CUST-0128,Novel,books,GIZA,2,1361.69,Cash
+ORD-00852,2026-06-22,CUST-0014,Water Bottle,Sports, Cairo,1,4561.98,Credit Card
+ORD-00910,08-14-2026,,Wireless Mouse,Electronics, Aswan,2,$793.13,Mobile Wallet
+ORD-00053,2026-05-10,CUST-0152,Cookbook,BOOKS,GIZA,2,$1937.75,Credit Card
+ORD-00884,06-21-2025,CUST-0192,USB-C Hub,Electronics,ALEXANDRIA,5,$920.74,Bank Transfer
+ORD-01011,04 Jun 2025,CUST-0268,Jeans,Clothing , Alexandria,2,"3,511.59 EGP",Cash
+ORD-00555,06/04/2026,CUST-0170,Football,Sports, Mansoura,3,4556.12,Credit Card
+ORD-00001,01-26-2025,CUST-0347,Keyboard,Electronics,ASWAN,2,1154.89,Credit Card
+ORD-00587,02-22-2026,CUST-0016,Blender,Home and Kitchen,cairo,4,"4,715.27 EGP",Credit Card
+ORD-01137,19/05/2025,CUST-0063,Sneakers,Clothing ,CAIRO,4,4821.84,Bank Transfer
+ORD-00564,29 Nov 2026,CUST-0012,Yoga Mat,Sports ,alexandria,5,659.82 EGP,Mobile Wallet
+ORD-00636,2025-02-10,CUST-0307,Blender,Home & Kitchen , Giza,4,"2,328.24 EGP",Credit Card
+ORD-00602,11 May 2026,CUST-0149,Hoodie,Clothing ,ALEXANDRIA,5,"2,089.41 EGP",Mobile Wallet
+ORD-00377,2025-09-24,CUST-0144,Sneakers,CLOTHING, Mansoura,3,268.60,Mobile Wallet
+ORD-00611,14/01/2025,CUST-0225,Cap,Clothing,CAIRO,5,3753.34,Bank Transfer
+ORD-00473,10 Oct 2026,CUST-0063,Blender,Home & Kitchen ,ASWAN,3,$107.43,Credit Card
+ORD-00083,2026-04-27,CUST-0009,Novel,books,Cairo,4,4906.15,Mobile Wallet
+ORD-00942,02-11-2026,,Webcam HD,Electronics ,mansoura,5,3060.79,Cash
+ORD-00431,02 Oct 2025,CUST-0104,Novel,Books, Alexandria,5,3266.20,Bank Transfer
+ORD-00397,24 Feb 2026,CUST-0016,Data Science 101,Books ,Cairo,5,$3983.31,Mobile Wallet
+ORD-00992,15/05/2025,CUST-0066,Sneakers,Clothing,cairo,4,2515.23,Cash
+ORD-01057,15 Jun 2025,CUST-0393,Dumbbells,sports,CAIRO,5,$896.03,Bank Transfer
+ORD-00407,10-08-2026,CUST-0044,Water Bottle,Sports,Aswan,5,$3243.54,Cash
+ORD-00146,15/07/2026,CUST-0350,Coffee Maker,Home & Kitchen ,,5,$4269.49,Cash
+ORD-00684,2025-01-01,CUST-0107,Desk Lamp,home & kitchen,Aswan,3,$3556.29,Bank Transfer
+ORD-01197,2025-09-03,CUST-0090,Keyboard,electronics, Mansoura,4,331.25 EGP,Cash
+ORD-00093,11-06-2026,CUST-0042,T-Shirt,Clothing,aswan,5,253.91 EGP,Bank Transfer
+ORD-00368,2025-02-05,CUST-0328,Jump Rope,Sports ,Giza,2,"1,302.27 EGP",Cash
+ORD-00177,11-16-2026,CUST-0117,Bluetooth Speaker,Electronics,MANSOURA,5,2099.23,Bank Transfer
+ORD-00859,04/04/2026,CUST-0342,Yoga Mat,SPORTS,Aswan,3,1527.28,Mobile Wallet
+ORD-00463,28 Aug 2025,CUST-0179,Data Science 101,Books,Mansoura,4,3709.06,Mobile Wallet
+ORD-00128,11-21-2025,CUST-0228,Biography,Books,Giza,1,503.03,Bank Transfer
+ORD-00717,14 Oct 2026,CUST-0275,Blender,Home & Kitchen,alexandria,4,"4,601.16 EGP",Bank Transfer
+ORD-01109,08-22-2026,CUST-0055,Desk Lamp,HOME & KITCHEN,Cairo,1,1942.21,Bank Transfer
+ORD-00151,2025-10-30,CUST-0256,Biography,Books,Cairo,2,2499.69,Mobile Wallet
+ORD-00348,11/11/2025,CUST-0354,T-Shirt,Clothing,CAIRO,2,694.58,Credit Card
+ORD-00403,28/05/2025,CUST-0361,Cap,Clothing,aswan,4,3570.20,Credit Card
+ORD-01182,2026-07-01,CUST-0251,Cookbook,Books , Mansoura,3,3376.21,Mobile Wallet
+ORD-01004,21/08/2026,CUST-0213,Jump Rope,Sports , Giza,2,3973.56,Credit Card
+ORD-01017,28/11/2025,CUST-0397,Jump Rope,Sports , Mansoura,1,"4,447.97 EGP",Cash
+ORD-00107,2025-07-17,CUST-0132,Desk Lamp,Home and Kitchen, Cairo,3,854.35,Cash
+ORD-00027,09 Oct 2025,CUST-0172,T-Shirt,CLOTHING,aswan,1,3582.05,Cash
+ORD-00199,18 Sep 2026,CUST-0373,T-Shirt,CLOTHING,ALEXANDRIA,3,$3076.22,Bank Transfer
+ORD-00829,21/09/2026,CUST-0011,Football,Sports ,,-4,"4,888.39 EGP",Cash
+ORD-00647,29/04/2026,CUST-0016,Cap,Clothing,MANSOURA,3,$706.62,Cash
+ORD-00988,01-16-2026,CUST-0161,Water Bottle,Sports,MANSOURA,5,"2,775.48 EGP",Credit Card
+ORD-00398,03-01-2025,CUST-0284,Jump Rope,Sports,Giza,4,2039.91,Cash
+ORD-00149,21 May 2025,CUST-0036,Blender,Home and Kitchen,cairo,2,$3225.80,Cash
+ORD-00462,2026-09-09,CUST-0128,USB-C Hub,ELECTRONICS,ASWAN,5,"1,433.36 EGP",
+ORD-00652,08/06/2025,CUST-0132,Air Fryer,Home and Kitchen, Cairo,2,$3056.87,Credit Card
+ORD-00335,10-23-2026,CUST-0168,Football,SPORTS,ASWAN,4,"2,914.59 EGP",Cash
+ORD-00247,15/05/2025,CUST-0167,Cap,Clothing, Mansoura,1,224.02,Cash
+ORD-00528,07/03/2026,CUST-0059,Desk Lamp,HOME & KITCHEN, Mansoura,2,"3,895.56 EGP",Bank Transfer
+ORD-01006,02 Jun 2026,CUST-0348,Cookbook,books,cairo,3,1371.94,Credit Card
+ORD-00630,06-26-2025,CUST-0105,Sneakers,Clothing ,,3,447.86,Cash
+ORD-00787,11/07/2025,CUST-0140,Dumbbells,sports,Cairo,1,"1,661.12 EGP",Cash
+ORD-00635,07-02-2026,CUST-0273,Air Fryer,Home & Kitchen , Cairo,1,3938.20,Mobile Wallet
+ORD-00014,21 Feb 2025,CUST-0030,Keyboard,Electronics,Cairo,5,4600.97,Cash
+ORD-00595,03-17-2026,CUST-0178,Hoodie,Clothing,CAIRO,5,"4,403.94 EGP",Cash
+ORD-00314,22/04/2025,CUST-0330,Novel,Books,Mansoura,5,$3855.10,Credit Card
+ORD-00984,17/09/2025,CUST-0046,Football,Sports ,mansoura,1,799.76,Credit Card
+ORD-00683,28/11/2026,CUST-0367,Keyboard,Electronics ,aswan,5,$1169.97,Bank Transfer
+ORD-00882,18 Sep 2026,CUST-0295,Biography,Books,aswan,4,"2,732.79 EGP",Cash
+ORD-01078,2025-07-19,CUST-0036,Cap,clothing,alexandria,5,1127.98,Credit Card
+ORD-00206,16/09/2026,CUST-0151,Biography,books, Alexandria,3,"2,019.46 EGP",Mobile Wallet
+ORD-00838,26/08/2025,CUST-0311,Football,sports,Cairo,2,4544.61,Credit Card
+ORD-00837,03 Jul 2026,CUST-0356,Biography,books,Cairo,1,$4379.89,Bank Transfer
+ORD-00919,18 Sep 2025,CUST-0181,Python Handbook,Books ,aswan,4,2212.20,
+ORD-00006,23/04/2025,CUST-0033,Wireless Mouse,Electronics, Aswan,2,"3,970.79 EGP",Credit Card
+ORD-00504,08 Jun 2026,CUST-0117,Wireless Mouse,Electronics, Alexandria,2,55.99 EGP,Bank Transfer
+ORD-00747,2025-02-13,CUST-0071,Cookbook,Books,,2,3804.71,Mobile Wallet
+ORD-00971,20/09/2025,CUST-0272,Biography,BOOKS,GIZA,3,$4363.22,Bank Transfer
+ORD-00175,2026-01-05,CUST-0321,Webcam HD,ELECTRONICS,alexandria,4,483.76,Mobile Wallet
+ORD-00009,17/07/2026,CUST-0109,Biography,books,ALEXANDRIA,3,"2,661.99 EGP",Mobile Wallet
+ORD-00270,06/12/2025,CUST-0385,Keyboard,electronics,mansoura,5,$1098.78,Credit Card
+ORD-01094,2026-11-17,CUST-0136,Hoodie,Clothing ,mansoura,2,$2477.55,Credit Card
+ORD-00824,11/02/2025,CUST-0351,T-Shirt,CLOTHING,Alexandria,2,$3737.16,Cash
+ORD-00758,23/05/2025,CUST-0058,Dumbbells,SPORTS,Aswan,4,454.63 EGP,Mobile Wallet
+ORD-01193,12 Oct 2026,CUST-0176,Biography,books,Aswan,3,3333.45,Mobile Wallet
+ORD-01117,19/01/2025,CUST-0036,Sneakers,Clothing, Giza,3,"4,034.35 EGP",Credit Card
+ORD-00257,28/06/2026,CUST-0188,Bluetooth Speaker,Electronics,aswan,4,1513.58,Mobile Wallet
+ORD-00821,04-26-2026,CUST-0303,Wireless Mouse,electronics,alexandria,4,$2732.72,Credit Card
+ORD-01145,06 Jan 2026,CUST-0329,Bluetooth Speaker,electronics,Mansoura,3,"3,785.76 EGP",Bank Transfer
+ORD-00535,2026-09-21,CUST-0063,Data Science 101,books,cairo,2,$2632.66,Mobile Wallet
+ORD-00210,29 Oct 2025,CUST-0089,Cap,Clothing,CAIRO,2,$4918.09,Mobile Wallet
+ORD-00877,19/02/2026,CUST-0277,Sneakers,CLOTHING, Alexandria,-1,"1,857.18 EGP",Cash
+ORD-00874,07-29-2025,CUST-0073,Data Science 101,Books ,mansoura,1,$2021.88,
+ORD-00993,2025-01-03,CUST-0226,T-Shirt,clothing,Giza,3,3590.47,Cash
+ORD-00064,2025-05-14,CUST-0344,Air Fryer,Home & Kitchen,GIZA,5,$4785.29,Credit Card
+ORD-00476,2025-11-04,CUST-0274,Cap,Clothing, Aswan,5,4527.87,Mobile Wallet
+ORD-00690,22 Dec 2025,CUST-0205,USB-C Hub,Electronics ,Mansoura,4,2888.06,
+ORD-00479,2026-06-29,CUST-0046,Wireless Mouse,electronics,giza,5,2063.57,Cash
+ORD-00375,28 Nov 2025,CUST-0377,Hoodie,Clothing,Cairo,2,3581.01,Cash
+ORD-01063,07 Oct 2025,CUST-0070,Jump Rope,SPORTS, Aswan,1,3831.78,Cash
+ORD-00114,11 Mar 2026,CUST-0142,Yoga Mat,Sports,CAIRO,2,1275.18,Credit Card
+ORD-00310,2026-12-01,CUST-0222,Jump Rope,sports, Giza,1,$4592.68,Mobile Wallet
+ORD-00675,2026-01-09,CUST-0207,Sneakers,clothing,Giza,2,198.40,
+ORD-00024,11-11-2026,CUST-0345,Yoga Mat,Sports,Alexandria,1,4101.20,Bank Transfer
+ORD-00608,18 Jan 2025,CUST-0366,Cookbook,BOOKS,Alexandria,4,4759.71,Cash
+ORD-00278,14/04/2026,CUST-0377,Coffee Maker,home & kitchen,Giza,4,2054.09,Bank Transfer
+ORD-00328,15 Jan 2025,CUST-0114,Desk Lamp,Home and Kitchen,Aswan,2,1276.77,Credit Card
+ORD-00609,29/07/2026,CUST-0128,Webcam HD,ELECTRONICS,MANSOURA,2,$4330.90,Cash
+ORD-00786,16 Jul 2026,CUST-0101,Desk Lamp,HOME & KITCHEN,Cairo,4,$4479.86,Cash
+ORD-00781,23 Feb 2026,CUST-0315,Keyboard,Electronics, Cairo,4,794.41,Bank Transfer
+ORD-00891,16/06/2025,CUST-0398,Novel,books,CAIRO,3,"2,809.16 EGP",Bank Transfer
+ORD-01107,26 Oct 2026,CUST-0301,Webcam HD,Electronics ,Cairo,1,763.15,Mobile Wallet
+ORD-00068,14 Aug 2025,CUST-0109,Webcam HD,electronics,,5,321.17 EGP,Bank Transfer
+ORD-00272,2026-06-29,CUST-0288,Yoga Mat,SPORTS, Cairo,2,"1,034.43 EGP",Bank Transfer
+ORD-00963,05 Apr 2025,CUST-0073,Cookware Set,home & kitchen,Mansoura,2,"2,206.93 EGP",Mobile Wallet
+ORD-01114,2026-06-13,,Bluetooth Speaker,Electronics,cairo,1,1298.01,Cash
+ORD-00312,2026-10-16,CUST-0193,Jump Rope,Sports,aswan,1,477.61 EGP,Cash
+ORD-00659,17/06/2025,CUST-0049,Data Science 101,BOOKS,mansoura,1,3814.17,Credit Card
+ORD-01016,06 Sep 2025,CUST-0273,Novel,Books,MANSOURA,2,380.01,
+ORD-01178,13 Mar 2025,CUST-0282,Data Science 101,books,CAIRO,3,$4298.82,Cash
+ORD-01058,17 Sep 2026,CUST-0383,Jump Rope,Sports,GIZA,2,1111.73,Bank Transfer
+ORD-00419,14/02/2025,CUST-0230,Dumbbells,Sports ,Mansoura,1,$1425.77,Credit Card
+ORD-00035,06 Jul 2025,CUST-0144,Blender,Home & Kitchen ,giza,2,1806.38,Bank Transfer
+ORD-00243,18 Sep 2025,CUST-0185,Cap,Clothing, Aswan,1,$2276.78,Bank Transfer
+ORD-00616,18 Jun 2025,CUST-0027,Sneakers,Clothing ,MANSOURA,1,"1,650.52 EGP",Credit Card
+ORD-00446,27/11/2025,CUST-0220,Coffee Maker,Home & Kitchen , Alexandria,5,"1,075.24 EGP",Bank Transfer
+ORD-00145,11 Apr 2026,CUST-0376,Desk Lamp,Home & Kitchen , Mansoura,3,"2,930.68 EGP",Bank Transfer
+ORD-01156,04/03/2025,CUST-0282,Desk Lamp,Home & Kitchen,aswan,3,3098.12,Cash
+ORD-00583,10-03-2025,CUST-0339,Coffee Maker,Home & Kitchen ,GIZA,5,$111.08,
+ORD-00070,2026-03-24,CUST-0041,Wireless Mouse,electronics,giza,2,"2,206.60 EGP",Cash
+ORD-00465,01 Dec 2025,CUST-0244,Cap,Clothing,CAIRO,3,"1,140.86 EGP",Mobile Wallet
+ORD-00625,05 Apr 2025,CUST-0329,Desk Lamp,HOME & KITCHEN,ALEXANDRIA,3,"2,914.55 EGP",Cash
+ORD-00138,30/11/2025,CUST-0251,Desk Lamp,HOME & KITCHEN,GIZA,4,614.08,Mobile Wallet
+ORD-00301,08-07-2026,CUST-0046,Air Fryer,Home & Kitchen,ASWAN,4,"3,603.07 EGP",Mobile Wallet
+ORD-00817,07-19-2026,CUST-0327,Football,sports,GIZA,1,3143.49,Credit Card
+ORD-00956,05/03/2025,CUST-0125,Air Fryer,home & kitchen,Cairo,5,1482.35,Mobile Wallet
+ORD-00102,12-17-2025,CUST-0127,Jump Rope,SPORTS, Giza,3,"3,069.88 EGP",Cash
+ORD-00610,26 Nov 2025,CUST-0288,Wireless Mouse,Electronics ,aswan,1,1377.32,Bank Transfer
+ORD-00594,25 Nov 2025,CUST-0396,Cookbook,books,Giza,2,2567.90,Bank Transfer
+ORD-00137,28 Jul 2026,CUST-0095,Blender,Home & Kitchen,mansoura,4,$1197.68,Bank Transfer
+ORD-00010,26/08/2026,CUST-0324,Webcam HD,electronics, Cairo,5,1140.08,Cash
+ORD-00061,2026-03-08,CUST-0263,T-Shirt,Clothing ,Mansoura,1,2407.42,Mobile Wallet
+ORD-00021,2025-12-06,CUST-0298,Water Bottle,Sports,GIZA,1,4391.34,Mobile Wallet
+ORD-00825,2026-10-26,CUST-0338,Hoodie,clothing,giza,3,"1,659.30 EGP",Cash
+ORD-00259,20 Oct 2026,CUST-0132,Yoga Mat,Sports,,4,2652.82,Cash
+ORD-00930,03-08-2026,CUST-0369,Jump Rope,Sports, Aswan,5,1912.76,Mobile Wallet
+ORD-00174,21/03/2026,CUST-0098,Yoga Mat,Sports, Aswan,1,$551.23,Mobile Wallet
+ORD-00389,2026-04-28,CUST-0292,Cookbook,Books,Mansoura,4,"2,946.87 EGP",Bank Transfer
+ORD-01082,06-30-2026,CUST-0120,USB-C Hub,electronics,Giza,-4,1177.98,Bank Transfer
+ORD-00410,2026-02-04,CUST-0133,Air Fryer,Home & Kitchen,cairo,3,755.18 EGP,Cash
+ORD-00671,2026-01-20,CUST-0107,Wireless Mouse,electronics,mansoura,4,4344.29,Bank Transfer
+ORD-00196,2026-11-19,CUST-0077,USB-C Hub,Electronics,Aswan,1,$4184.40,Cash
+ORD-00764,30/05/2026,CUST-0275,Webcam HD,electronics,Cairo,4,"1,409.97 EGP",Bank Transfer
+ORD-00516,2025-03-22,CUST-0335,Novel,Books , Alexandria,2,4427.79,Cash
+ORD-01072,2025-05-08,CUST-0332,Hoodie,CLOTHING, Mansoura,3,$1217.76,Bank Transfer
+ORD-00101,05/03/2026,CUST-0397,Desk Lamp,HOME & KITCHEN,Mansoura,4,3467.98,Cash
+ORD-00354,27 Aug 2025,CUST-0298,Webcam HD,ELECTRONICS,MANSOURA,4,$1428.67,Mobile Wallet
+ORD-01076,2025-03-10,CUST-0327,Data Science 101,books, Giza,3,$4585.37,Mobile Wallet
+ORD-00522,06 Jan 2026,CUST-0012,Wireless Mouse,Electronics ,mansoura,4,$1106.43,Credit Card
+ORD-00506,04-17-2025,CUST-0365,Desk Lamp,Home & Kitchen ,cairo,4,3325.57,Cash
+ORD-00249,2025-11-03,CUST-0004,Cookbook,books,ALEXANDRIA,4,3999.93,Cash
+ORD-00617,06-19-2026,CUST-0110,Cookware Set,Home and Kitchen,GIZA,5,437.09 EGP,Bank Transfer
+ORD-00026,07-27-2026,CUST-0259,Dumbbells,SPORTS,aswan,4,3082.63,Bank Transfer
+ORD-00889,2025-07-27,CUST-0110,Cookware Set,Home and Kitchen,Mansoura,2,$3658.22,Bank Transfer
+ORD-00763,11 Apr 2026,CUST-0018,Bluetooth Speaker,Electronics,ASWAN,3,1244.82,Bank Transfer
+ORD-00384,26/10/2026,CUST-0043,Hoodie,Clothing,MANSOURA,4,2660.03,Cash
+ORD-00924,18/03/2026,CUST-0236,T-Shirt,CLOTHING,Aswan,1,1110.99,Credit Card
+ORD-01015,06-07-2025,CUST-0290,Air Fryer,HOME & KITCHEN, Alexandria,5,4952.43,Bank Transfer
+ORD-00951,02/05/2026,CUST-0008,Keyboard,Electronics,Giza,4,3537.66,Bank Transfer
+ORD-01055,02-21-2026,CUST-0083,T-Shirt,clothing,Alexandria,5,3468.74,Bank Transfer
+ORD-01139,07-22-2025,CUST-0333,T-Shirt,clothing,giza,1,"4,897.16 EGP",Cash
+ORD-00819,2025-04-27,CUST-0064,Air Fryer,Home & Kitchen,Alexandria,3,"3,851.59 EGP",Mobile Wallet
+ORD-00978,25/11/2026,CUST-0354,Desk Lamp,Home and Kitchen, Cairo,-3,"3,875.66 EGP",Credit Card
+ORD-01133,2025-12-30,CUST-0146,T-Shirt,Clothing , Mansoura,5,"1,328.93 EGP",Credit Card
+ORD-00657,05-14-2026,CUST-0058,Football,Sports,mansoura,5,$97.53,Bank Transfer
+ORD-00442,30 Nov 2025,CUST-0023,Jump Rope,SPORTS,CAIRO,4,$865.95,Bank Transfer
+ORD-00508,01 Jul 2026,CUST-0043,Dumbbells,Sports,mansoura,5,2704.25,Cash
+ORD-01123,2026-01-26,CUST-0226,Coffee Maker,Home & Kitchen, Alexandria,3,$3292.70,Credit Card
+ORD-00340,05-18-2026,CUST-0342,Hoodie,Clothing ,ALEXANDRIA,5,3045.14,
+ORD-00567,11 Mar 2025,CUST-0093,Biography,Books, Aswan,4,4814.65,Mobile Wallet
+ORD-00317,03 Nov 2025,CUST-0044,Cap,Clothing ,mansoura,1,"3,171.55 EGP",Credit Card
+ORD-00526,2025-11-11,CUST-0211,Cookware Set,Home and Kitchen, Aswan,4,3262.11,Cash
+ORD-00405,2026-05-16,CUST-0023,Cap,clothing,ASWAN,1,2760.31,Bank Transfer
+ORD-00773,08 Jun 2026,CUST-0302,Novel,Books,aswan,4,"3,799.22 EGP",Credit Card
+ORD-00707,2026-12-02,CUST-0046,Coffee Maker,Home & Kitchen ,aswan,5,4164.72,Credit Card
