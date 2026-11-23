@@ -55,9 +55,18 @@ python src/clean_data.py --input your_data.csv --output cleaned.csv --report rep
 
 The full before/after details are in [reports/cleaning_report.md](reports/cleaning_report.md).
 
+## Tests
+
+A pytest suite covers the cleaning rules (duplicates, category normalization, mixed date parsing, price coercion, invalid rows, missing-value filling, derived totals):
+
+```bash
+pip install pytest
+python -m pytest tests/ -q
+```
+
 ## Tools
 
-Python, Pandas
+Python, Pandas, pytest
 
 ## Note on the data
 
