@@ -7,6 +7,7 @@
 | Rows dropped (unparseable date) | 0 |
 | Rows dropped (invalid quantity/price) | 35 |
 | Rows after cleaning | 1165 |
+| Completeness after cleaning | 100.0% |
 
 ## Missing values filled
 

@@ -517,3 +517,44 @@ def test_report_row_counts_are_consistent(kitchen_sink_df):
         + report["rows_dropped_invalid_values"]
     )
     assert accounted == report["rows_before"]
+
+
+# --------------------------------------------------------------------------- #
+# Quality helpers and the --flag-outliers option
+# --------------------------------------------------------------------------- #
+from src.quality import completeness, flag_outliers_iqr, profile  # noqa: E402
+
+
+def test_profile_counts_missing_and_unique():
+    df = pd.DataFrame({"Order ID": ["a", "b", None], "Qty": [1, 1, 2]})
+    p = profile(df)
+    assert p.loc["order_id", "missing"] == 1
+    assert p.loc["qty", "unique"] == 2
+    assert p.loc["order_id", "missing_pct"] == pytest.approx(33.33, abs=0.01)
+
+
+def test_completeness_percentage():
+    df = pd.DataFrame({"a": [1, None], "b": [1, 1]})
+    assert completeness(df) == 75.0
+
+
+def test_iqr_flags_extreme_price_within_its_category():
+    df = pd.DataFrame({
+        "category": ["A"] * 8 + ["B"] * 8,
+        "unit_price": [10, 11, 12, 10, 11, 12, 11, 500, 1000, 1010, 1020, 1000, 1010, 1020, 1005, 1015],
+    })
+    flags = flag_outliers_iqr(df)
+    assert flags.iloc[7]          # 500 is extreme among A's
+    assert not flags.iloc[8:].any()  # ~1000 is normal for B
+
+
+def test_clean_flag_outliers_adds_column_and_keeps_rows():
+    rows = [make_row(order_id=f"O{i}", unit_price=10.0 + i % 3) for i in range(12)]
+    rows.append(make_row(order_id="BIG", unit_price=9999.0))
+    df = pd.DataFrame(rows)
+    plain, _ = clean(df.copy())
+    flagged, report = clean(df.copy(), flag_outliers=True)
+    assert len(flagged) == len(plain)
+    assert "is_price_outlier" not in plain.columns
+    assert flagged["is_price_outlier"].sum() >= 1
+    assert report["price_outliers_flagged"] == int(flagged["is_price_outlier"].sum())

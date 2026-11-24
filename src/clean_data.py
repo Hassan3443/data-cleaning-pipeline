@@ -13,6 +13,7 @@ Writes the cleaned CSV and a markdown cleaning report with before/after stats.
 
 Usage:
     python src/clean_data.py
+    python src/clean_data.py --flag-outliers --plot figures/before_after.png
     python src/clean_data.py --input data/raw/messy_sales.csv \
         --output data/cleaned/clean_sales.csv --report reports/cleaning_report.md
 """
@@ -22,6 +23,11 @@ import re
 from pathlib import Path
 
 import pandas as pd
+
+try:  # imported as a package (tests) or run as a script
+    from src.quality import completeness, flag_outliers_iqr, plot_before_after
+except ImportError:
+    from quality import completeness, flag_outliers_iqr, plot_before_after
 
 
 def standardize_columns(df):
@@ -64,7 +70,7 @@ def coerce_price(series):
     return pd.to_numeric(cleaned, errors="coerce")
 
 
-def clean(df):
+def clean(df, flag_outliers=False):
     report = {"rows_before": len(df)}
 
     df = standardize_columns(df)
@@ -106,7 +112,12 @@ def clean(df):
     df["quantity"] = df["quantity"].astype(int)
     df["order_date"] = df["order_date"].dt.strftime("%Y-%m-%d")
 
+    if flag_outliers:
+        df["is_price_outlier"] = flag_outliers_iqr(df, "unit_price", "category")
+        report["price_outliers_flagged"] = int(df["is_price_outlier"].sum())
+
     report["rows_after"] = len(df)
+    report["completeness_after_pct"] = completeness(df)
     return df, report
 
 
@@ -121,6 +132,11 @@ def write_report(report, path):
         f"| Rows dropped (unparseable date) | {report['rows_dropped_unparseable_date']} |",
         f"| Rows dropped (invalid quantity/price) | {report['rows_dropped_invalid_values']} |",
         f"| Rows after cleaning | {report['rows_after']} |",
+        f"| Completeness after cleaning | {report['completeness_after_pct']}% |",
+    ]
+    if "price_outliers_flagged" in report:
+        lines.append(f"| Price outliers flagged (IQR, per category) | {report['price_outliers_flagged']} |")
+    lines += [
         "",
         "## Missing values filled",
         "",
@@ -151,14 +167,21 @@ def main():
     parser.add_argument("--input", default="data/raw/messy_sales.csv")
     parser.add_argument("--output", default="data/cleaned/clean_sales.csv")
     parser.add_argument("--report", default="reports/cleaning_report.md")
+    parser.add_argument("--flag-outliers", action="store_true",
+                        help="add an is_price_outlier column (IQR rule per category); rows are kept")
+    parser.add_argument("--plot", default=None, metavar="PATH",
+                        help="write a before/after quality chart to PATH (e.g. figures/before_after.png)")
     args = parser.parse_args()
 
     df = pd.read_csv(args.input)
-    clean_df, report = clean(df)
+    clean_df, report = clean(df.copy(), flag_outliers=args.flag_outliers)
 
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
     clean_df.to_csv(args.output, index=False)
     write_report(report, args.report)
+    if args.plot:
+        Path(args.plot).parent.mkdir(parents=True, exist_ok=True)
+        plot_before_after(df, clean_df, args.plot)
     print(json.dumps(report, indent=2))
     print(f"Cleaned data -> {args.output}")
     print(f"Report       -> {args.report}")
