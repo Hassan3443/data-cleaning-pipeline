@@ -558,3 +558,36 @@ def test_clean_flag_outliers_adds_column_and_keeps_rows():
     assert "is_price_outlier" not in plain.columns
     assert flagged["is_price_outlier"].sum() >= 1
     assert report["price_outliers_flagged"] == int(flagged["is_price_outlier"].sum())
+
+
+# --------------------------------------------------------------------------- #
+# Date convention: separator decides day-first or month-first
+# --------------------------------------------------------------------------- #
+def test_slash_dates_are_day_first_even_when_ambiguous():
+    from src.clean_data import parse_dates
+    out = parse_dates(pd.Series(["03/07/2025", "18/04/2025"]))
+    assert out.dt.strftime("%Y-%m-%d").tolist() == ["2025-07-03", "2025-04-18"]
+
+
+def test_dash_dates_are_month_first_and_slash_can_be_switched():
+    from src.clean_data import parse_dates
+    assert parse_dates(pd.Series(["03-07-2025"])).dt.strftime("%Y-%m-%d").iloc[0] == "2025-03-07"
+    assert parse_dates(pd.Series(["03/07/2025"]), slash_dayfirst=False).dt.strftime("%Y-%m-%d").iloc[0] == "2025-03-07"
+
+
+def test_every_day_round_trips_through_the_generator_formats():
+    from datetime import date, timedelta
+    from src.clean_data import parse_dates
+    days = [date(2025, 1, 1) + timedelta(days=i) for i in range(730)]
+    for fmt in ("%Y-%m-%d", "%d/%m/%Y", "%m-%d-%Y", "%d %b %Y"):
+        got = parse_dates(pd.Series([d.strftime(fmt) for d in days])).dt.date.tolist()
+        assert got == days, fmt
+
+
+def test_audit_numbers_are_consistent_with_the_report():
+    from src.audit import build
+    data, _ = build()
+    r = data["report"]
+    assert data["steps"][0][1] + sum(s[1] for s in data["steps"][1:4]) == r["rows_after"]
+    assert sum(data["date_formats"].values()) == r["rows_before"]
+    assert data["date_ambiguity"]["differs_from_month_first_reading"] <= data["date_ambiguity"]["ambiguous"]

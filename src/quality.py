@@ -46,22 +46,28 @@ def plot_before_after(before, after, path="figures/before_after.png"):
     """Two-panel chart: missing values per column and row counts, raw vs cleaned."""
     pb, pa = profile(before), profile(after)
     cols = [c for c in pb.index if c in pa.index]
-    fig, axes = plt.subplots(1, 2, figsize=(12, 4.5))
+    bg, fg, muted = "#0d0610", "#f6ecf8", "#a995ae"
+    fig, axes = plt.subplots(1, 2, figsize=(12, 4.5), facecolor=bg)
     x = range(len(cols))
     w = 0.38
-    axes[0].bar([i - w / 2 for i in x], pb.loc[cols, "missing"], w, label="raw", color="#ef4444")
-    axes[0].bar([i + w / 2 for i in x], pa.loc[cols, "missing"], w, label="cleaned", color="#10b981")
+    axes[0].bar([i - w / 2 for i in x], pb.loc[cols, "missing"], w, label="raw", color="#fb7185")
+    axes[0].bar([i + w / 2 for i in x], pa.loc[cols, "missing"], w, label="cleaned", color="#e879f9")
     axes[0].set_xticks(list(x))
     axes[0].set_xticklabels(cols, rotation=45, ha="right")
     axes[0].set_title("Missing values per column", fontweight="bold")
-    axes[0].legend()
-    axes[1].bar(["raw", "cleaned"], [len(before), len(after)], color=["#ef4444", "#10b981"])
+    axes[0].legend(facecolor=bg, edgecolor=muted, labelcolor=fg)
+    axes[1].bar(["raw", "cleaned"], [len(before), len(after)], color=["#fb7185", "#e879f9"])
     for i, v in enumerate([len(before), len(after)]):
-        axes[1].text(i, v, f"{v:,}", ha="center", va="bottom")
+        axes[1].text(i, v, f"{v:,}", ha="center", va="bottom", color=fg)
     axes[1].set_title("Row count", fontweight="bold")
     for ax in axes:
+        ax.set_facecolor(bg)
+        ax.tick_params(colors=muted)
+        ax.title.set_color(fg)
+        for sp in ax.spines.values():
+            sp.set_color(muted)
         ax.spines[["top", "right"]].set_visible(False)
-    fig.suptitle(f"Completeness: {completeness(before)}% -> {completeness(after)}%", fontsize=13, fontweight="bold")
+    fig.suptitle(f"Completeness: {completeness(before)}% -> {completeness(after)}%", fontsize=13, fontweight="bold", color=fg)
     fig.tight_layout()
-    fig.savefig(path, dpi=150)
+    fig.savefig(path, dpi=150, facecolor=bg)
     plt.close(fig)

@@ -8,6 +8,7 @@
 | Rows dropped (invalid quantity/price) | 35 |
 | Rows after cleaning | 1165 |
 | Completeness after cleaning | 100.0% |
+| Price outliers flagged (IQR, per category) | 0 |
 
 ## Missing values filled
 

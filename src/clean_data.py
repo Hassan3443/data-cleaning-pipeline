@@ -50,14 +50,28 @@ def normalize_categories(df, columns):
     return df
 
 
-def parse_dates(series):
-    parsed = pd.to_datetime(series, format="mixed", dayfirst=False, errors="coerce")
-    # Retry failures with dayfirst=True for formats like 31/01/2025
-    mask = parsed.isna() & series.notna() & (series.astype(str).str.strip() != "")
-    if mask.any():
-        parsed.loc[mask] = pd.to_datetime(
-            series[mask], format="mixed", dayfirst=True, errors="coerce"
-        )
+SLASH_DATE = r"\d{1,2}/\d{1,2}/\d{4}"
+
+
+def parse_dates(series, slash_dayfirst=True):
+    """Parse mixed date strings into datetimes.
+
+    A date like 03/07/2025 is ambiguous (3 July or 7 March). The convention here is
+    decided by the separator: `a/b/YYYY` is day-first (the Egyptian and European
+    habit) and `a-b-YYYY` is month-first. Strings with a month name or an ISO year
+    first are unambiguous. Pass slash_dayfirst=False if your source uses m/d/Y.
+    Anything left unparsed gets one more attempt with the opposite order, and is
+    dropped by the caller if it still fails.
+    """
+    text = series.astype("string").str.strip()
+    slash = text.str.fullmatch(SLASH_DATE).fillna(False)
+    parsed = pd.Series(pd.NaT, index=series.index, dtype="datetime64[ns]")
+    for mask, dayfirst in ((slash, slash_dayfirst), (~slash, False)):
+        if mask.any():
+            parsed.loc[mask] = pd.to_datetime(text[mask], format="mixed", dayfirst=dayfirst, errors="coerce")
+    retry = parsed.isna() & text.notna() & (text != "")
+    if retry.any():
+        parsed.loc[retry] = pd.to_datetime(text[retry], format="mixed", dayfirst=True, errors="coerce")
     return parsed
 
 
